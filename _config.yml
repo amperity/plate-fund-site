@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: King County Covid Restaurant Fund
+title: COVID Restaurant Work Relief
+headline: "Losing restaurant income?"
+subtitle: Are you a restaurant worker who has lost some or all of your income due to the coronavirus lockdown?
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nervous-bell-7c3525.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kcrf.amperity.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key: UA-161901878-2
 twitter_username: jekyllrb
 github_username:  jekyll
