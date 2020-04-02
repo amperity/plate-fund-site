@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COVID Restaurant Work Relief
+title: COVID Restaurant Worker Relief
 headline: "Losing restaurant income?"
 subtitle: Are you a restaurant worker who has lost some or all of your income due to the coronavirus lockdown?
 email: your-email@example.com
