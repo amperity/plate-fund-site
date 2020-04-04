@@ -34,6 +34,10 @@ donate_url: "https://seattlefoundation.org/platefund"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "es"]
+exclude_from_localizations: ["js", "img", "css"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
