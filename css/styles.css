@@ -10151,9 +10151,14 @@ header.masthead h1 {
   text-align: center;
 }
 
+header.masthead  {
+  padding-bottom: 0;
+}
+
 @media (min-width: 768px) {
   header.masthead  {
     padding-top: 150px;
+    padding-bottom: calc(10rem - 4.5rem);
   }
 
   .mobile {
