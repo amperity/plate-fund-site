@@ -10179,3 +10179,7 @@ header.masthead h1 {
 .socials svg:hover {
   color: #5472B6;
 }
+
+.centered {
+  text-align: center
+}
