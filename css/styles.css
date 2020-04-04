@@ -9993,9 +9993,9 @@ hr.light {
 }
 
 #mainNav {
-  height: 120px;
+  height: 80px;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #E2E5F0;
+  background-color: transparent;
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -10155,16 +10155,20 @@ header.masthead  {
   padding-bottom: 0;
 }
 
-@media (min-width: 768px) {
-  header.masthead  {
-    padding-top: 150px;
-    padding-bottom: calc(10rem - 4.5rem);
-  }
+.logo-main {
+  margin-top: -10rem;
+  width: 25%;
+}
 
 .logo-404 {
   width: 50%;
 }
 
+.call-to-action {
+  padding-top: 20px;
+}
+
+@media (min-width: 768px) {
   .mobile {
     display: none;
   }
