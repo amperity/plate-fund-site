@@ -554,11 +554,6 @@ pre code {
   margin-left: auto;
 }
 
-.nav-items {
-  float: right;
-  width: 200px;
-}
-
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -9967,7 +9962,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #A32035;;
 }
 
 hr.light {
@@ -9994,7 +9989,7 @@ hr.light {
 #mainNav {
   height: 120px;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: white;
+  background-color: #E2E5F0;
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -10026,11 +10021,11 @@ hr.light {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: black;
+    color: rgb(12, 30, 58);
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: black;
+    color: #5472B6;
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
@@ -10054,9 +10049,8 @@ hr.light {
 }
 
 header.masthead {
-  margin-top: 120px;
   background-color: #E2E5F0;
-  color: black;
+  color: rgb(12, 30, 58);
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background-position: center;
@@ -10128,8 +10122,15 @@ header.masthead h1 {
 }
 
 .nav-logo {
-  margin-top: 20px;
-  width: 300px;
+  width: 120px;
+  margin-top: -15px;
+}
+
+@media (min-width: 1200px) {
+  .nav-logo {
+    width: 200px;
+    margin-top: 50px;
+  }
 }
 
 .masthead-video {
@@ -10141,6 +10142,10 @@ header.masthead h1 {
 }
 
 @media (min-width: 768px) {
+  header.masthead  {
+    padding-top: 150px;
+  }
+
   .mobile {
     display: none;
   }
