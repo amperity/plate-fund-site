@@ -9983,7 +9983,7 @@ hr.light {
 }
 
 .page-section {
-  padding: 8rem 0;
+  padding: 5rem 0;
 }
 
 #mainNav {
@@ -10063,8 +10063,7 @@ header.masthead h1 {
 }
 @media (min-width: 992px) {
   header.masthead {
-    height: 100vh;
-    min-height: 40rem;
+    margin-bottom: 3rem;
     padding-top: 4.5rem;
     padding-bottom: 0;
   }
@@ -10148,10 +10147,6 @@ header.masthead h1 {
   .desktop {
     display: inherit;
   }
-}
-
-.apply {
-  margin-bottom: 30px;
 }
 
 .socials {
