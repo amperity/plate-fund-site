@@ -10161,6 +10161,10 @@ header.masthead  {
     padding-bottom: calc(10rem - 4.5rem);
   }
 
+.logo-404 {
+  width: 50%;
+}
+
   .mobile {
     display: none;
   }
