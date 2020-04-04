@@ -164,12 +164,12 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color: #071E3C;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #d6370c;
+  color: #5472B6;
   text-decoration: underline;
 }
 
@@ -2673,17 +2673,17 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #071E3C;
+  border-color: #071E3C;
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #23272b;
+  background-color: #5472B6;
   border-color: #1d2124;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
-  background-color: #23272b;
+  background-color:  #5472B6;
   border-color: #1d2124;
   box-shadow: 0 0 0 0.2rem rgba(82, 88, 93, 0.5);
 }
@@ -10152,4 +10152,12 @@ header.masthead h1 {
   .desktop {
     display: inherit;
   }
+}
+
+.apply {
+  margin-bottom: 30px;
+}
+
+.socials {
+  color: #071E3C;
 }
