@@ -10172,5 +10172,10 @@ header.masthead h1 {
 }
 
 .socials {
+  cursor: pointer;
   color: #071E3C;
+}
+
+.socials svg:hover {
+  color: #5472B6;
 }
