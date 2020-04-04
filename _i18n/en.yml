@@ -7,6 +7,76 @@ home:
   want_to_help_blurb: The Plate Fund is powered by your generosity. Donate directly to help our neighbors in need.
   donate_button: Donate
 
+  overview_title: What is The Plate Fund?
+  overview_content:
+    - |
+      The COVID-19 crisis is devastating for thousands of
+      restaurant-industry workers who have lost jobs and rely on
+      every paycheck to afford necessities like food, housing
+      and medicine.
+    - |
+      To help, The Plate Fund is providing immediate financial
+      assistance to those who have been hardest-hit in King
+      County.
+
+  stories_title: Their Stories
+  stories:
+    'Richard, cook':
+      job: cook
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris
+        eu, feugiat justo.
+    'Simone, server':
+      job: server
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris
+        eu, feugiat justo.
+    'Lionel, bartender':
+      job: bartender
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris eu,
+        feugiat justo.
+
+  donate_title: The Need is Urgent
+  donate_overview: |
+    When the COVID-19 crisis hit the Seattle area, more than
+    100,000 people were employed at some 5,000 food
+    establishments in King County. Thousands of restaurants have
+    suspended operations, closed and let go a majority or their
+    staffs. A vast majority of line cooks, wait staff,
+    dishwashers and other employees rely on every paycheck, as
+    well as tips, to support themselves and their families. They
+    need to pay for necessities like food, housing, baby
+    products and medicine now.
+
+  donate_help_title: How to Help Now
+  donate_help_content:
+    - |
+      The Plate Fund provides immediate, one-time payments of $500
+      to the most impacted workers. For many, these payments can
+      help “bridge the gap” between the time they received their
+      last paychecks and when they can access federal stimulus
+      payments and/or unemployment insurance benefits, which can
+      take weeks of months. For others, this may be the only money
+      they receive.
+    - |
+      Restaurants, bars and cafes are the connective tissue in our
+      communities, nourishing all of us and helping to keep our
+      neighborhoods vibrant. Now they need us. Please, donate what
+      you can—the cost of a cup of coffee, a dinner out, a month
+      of meals—to help us reach more workers. It’s our time to
+      serve.
+
+  donate_subtext: |
+    Donations are tax deductible, and one hundred percent of
+    all contributions will go directly to workers.
+
   donate_faq: Frequently Asked Questions
   donate_faq_content:
     'Why focus on workers in the restaurant industry?':

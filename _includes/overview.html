@@ -3,20 +3,14 @@
     <div class="col-10 col-md-9 col-lg-8 col-xl-6 align-self-center justify-content-center">
       <div class="row">
         <div class="col align-self-end">
-          <h3 class="mb-4 text-center">What is The Plate Fund?</h3>
+          <h3 class="mb-4 text-center">{% translate home.overview_title %}</h3>
         </div>
         <div class="align-self-baseline">
+          {% for p in site.translations[site.lang]["home"]["overview_content"] %}
           <p class="col font-weight-light">
-            The COVID-19 crisis is devastating for thousands of
-            restaurant-industry workers who have lost jobs and rely on
-            every paycheck to afford necessities like food, housing
-            and medicine.
+            {{ p }}
           </p>
-          <p class="col font-weight-light">
-            To help, The Plate Fund is providing immediate financial
-            assistance to those who have been hardest-hit in King
-            County.
-          </p>
+          {% endfor %}
         </div>
       </div>
     </div>
