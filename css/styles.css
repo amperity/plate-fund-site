@@ -10058,7 +10058,7 @@ hr.light {
 header.masthead {
   background-color: #E2E5F0;
   color: rgb(12, 30, 58);
-  padding-top: 10rem;
+  padding-top: 8rem;
   padding-bottom: calc(10rem - 4.5rem);
   background-position: center;
   background-repeat: no-repeat;
@@ -10156,12 +10156,20 @@ header.masthead  {
 }
 
 .logo-main {
-  margin-top: -10rem;
-  width: 25%;
+  margin-top: -8rem;
+  min-width: 180px;
+  width: 40%;
+}
+
+.logo-apply {
+  margin-top: -8rem;
+  width: 40%;
+  max-width: 400px;
 }
 
 .logo-404 {
   width: 50%;
+  max-width: 400px;
 }
 
 .call-to-action {
@@ -10182,6 +10190,18 @@ header.masthead  {
 
   .overview p {
     text-align: left;
+  }
+}
+
+@media (min-width: 1200px) {
+  .logo-main {
+    margin-top: -4rem;
+    width: 25%;
+  }
+
+  .logo-apply {
+    margin-top: -4rem;
+    width: 25%;
   }
 }
 
