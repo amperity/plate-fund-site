@@ -1,23 +1,28 @@
 home:
-  need_help: Need Help?
+  need_help: Do You Need Help?
   need_help_blurb: Restaurant workers who live in King County may be eligible for $500 in immediate assistance. Learn more about the program and apply in minutes.
   apply_button: Learn More & Apply
 
-  want_to_help: Want to Help?
-  want_to_help_blurb: The Plate Fund is powered by your generosity. Donate directly to help our neighbors in need.
+  want_to_help: We Need Your Help.
+  want_to_help_blurb: The Plate Fund is powered by your generosity. Donate directly to help us reach more workers in need.
   donate_button: Donate
 
   overview_title: What is The Plate Fund?
   overview_content:
     - |
       The COVID-19 crisis is devastating for thousands of
-      restaurant-industry workers who have lost jobs and rely on
-      every paycheck to afford necessities like food, housing
-      and medicine.
+      restaurant-industry workers who have lost their jobs and rely on
+      every paycheck to afford necessities like food, transportation,
+      baby products and medicine.
     - |
       To help, The Plate Fund is providing immediate financial
-      assistance to those who have been hardest-hit in King
-      County.
+      assistance to those who have been hardest-hit in King County.
+    - |
+      The need is enormous, and the money the fund distributes is
+      limited to what we raise in the days and weeks ahead. While our
+      goal is to help as many people as possible, priority is given to
+      applicants most in need, and the order applications are
+      received. Please donate and apply today!
 
   stories_title: Their Stories
   stories:
@@ -45,15 +50,14 @@ home:
 
   donate_title: The Need is Urgent
   donate_overview: |
-    When the COVID-19 crisis hit the Seattle area, more than
-    100,000 people were employed at some 5,000 food
-    establishments in King County. Thousands of restaurants have
-    suspended operations, closed and let go a majority or their
-    staffs. A vast majority of line cooks, wait staff,
-    dishwashers and other employees rely on every paycheck, as
-    well as tips, to support themselves and their families. They
-    need to pay for necessities like food, housing, baby
-    products and medicine now.
+    When the COVID-19 crisis hit the Seattle area, more than 100,000
+    people were employed at some 5,000 food establishments in King
+    County. Thousands of restaurants have suspended operations, closed
+    and let go a majority of their staff. A vast majority of line
+    cooks, wait staff, dishwashers and other employees rely on every
+    paycheck, as well as tips, to support themselves and their
+    families. They need to pay for necessities like food,
+    transportation, baby products and medicine now.
 
   donate_help_title: How to Help Now
   donate_help_content:
@@ -63,7 +67,7 @@ home:
       help “bridge the gap” between the time they received their
       last paychecks and when they can access federal stimulus
       payments and/or unemployment insurance benefits, which can
-      take weeks of months. For others, this may be the only money
+      take weeks or months. For others, this may be the only money
       they receive.
     - |
       Restaurants, bars and cafes are the connective tissue in our
@@ -81,32 +85,28 @@ home:
   donate_faq_content:
     'Why focus on workers in the restaurant industry?':
       - |
-        The restaurant industry is being particularly hard hit
-        by the COVID-19 crisis. The National Restaurant
-        Association recently predicted that restaurants across
-        the country will lose $225 billion in business, and that
-        5 to 7 million service and kitchen jobs could be lost
-        over the next three months. And the effects are
+        The restaurant industry is being hard hit by the COVID-19
+        crisis. The National Restaurant Association recently predicted
+        that restaurants across the country will lose $225 billion in
+        business, and that 5 to 7 million service and kitchen jobs
+        could be lost over the next three months. And the effects are
         certainly being felt right here in King County. When the
-        COVID-19 crisis hit the Seattle area, more than 100,000
-        people were employed at some 5,000 food establishments
-        in King County. Thousands of restaurants have suspended
-        operations, closed and let go a majority or their
-        staffs.
+        COVID-19 crisis hit the Seattle area, more than 100,000 people
+        were employed at some 5,000 food establishments in King
+        County. Thousands of restaurants have suspended operations,
+        closed and let go a majority of their staff.
       - |
-        The Washington State Employment Security Department
-        reported that accommodation and food service
-        unemployment claims rose ten-fold in a single week
-        during the third week of March and reached over 68,000
-        total new claims for the month. Every single one of King
-        County’s more than 5,000 restaurants are being impacted,
-        especially single-establishment and smaller restaurants
-        that may not have the resources to support their staffs
-        through the crisis. A vast majority of these workers
-        rely on every paycheck, as well as tips, to support
-        themselves and their families. They need to pay for
-        necessities like food, housing, baby products and
-        medicine now.
+        The Washington State Employment Security Department reported
+        that accommodation and food service unemployment claims rose
+        ten-fold in a single week during the third week of March and
+        reached over 68,000 total new claims for the month. Every
+        single one of King County’s more than 5,000 restaurants are
+        being impacted, especially single-establishment and smaller
+        restaurants that may not have the resources to support their
+        staffs through the crisis. A vast majority of these workers
+        rely on every paycheck, as well as tips, to support themselves
+        and their families. They need to pay for necessities like
+        food, transportation, baby products and medicine now.
     'Why can’t workers rely on the government support via stimulus payments and unemployment benefits?':
       - |
         Government support is on the way for many, but for a lot
@@ -129,7 +129,7 @@ home:
         initiatives. Quick cash transfers at moments of need
         have proven effective as a disaster response and in
         helping people avoid housing instability and food
-        insecurity. Cash is the best tool. Cash provides
+        insecurity. Cash is the best tool as it provides
         individuals with the flexibility to meet their most
         urgent needs. There is a strong global evidence base
         that cash transfers are efficient and effective,
@@ -177,10 +177,15 @@ home:
         expedited processing.
     'How is The Plate Fund different from other efforts helping people financially impacted by the pandemic?':
       - |
-        The fund is different from most other services currently
-        available in King County because it provides immediate
-        and direct financial assistance to individuals, not to
-        organizations.
+        This fund is the only one of its kind that enables emergency
+        cash to go directly to individuals who worked in one of the
+        hardest hit sectors of our local economy. It is one part of a
+        set of complementary efforts all designed to direct support to
+        those most impacted by the current crisis. We are working
+        collaboratively with the United Way of King County, local
+        philanthropies as well as our city, county and state leaders
+        to ensure these combined help as many of our neighbors as
+        possible.
     'Who is behind The Plate Fund effort?':
       - |
         The Schultz Family Foundation created the fund, which
@@ -243,18 +248,17 @@ apply:
           <li>Provide bank account information;</li>
           <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
         </ul>
-    'How do I prove a decrease in work hours or loss of job due to COVID-19?':
     'Do I need a Social Security number to be eligible to receive funds?':
       - Social Security numbers are not required.
     'What if I don’t have a bank account?':
       - |
         We recognize a small percentage of restaurant workers do not
-        have bank accounts. We are working to add functionality to
-        provide payments via debit or gift cards in the coming
-        weeks. We will also provide applicants with information
-        about where they may open <a
-        href="https://www.seattlecu.com/" target="_blank">no-cost
-        bank accounts</a>.
+        have bank accounts. If you do not have a bank account, please
+        contact The Plate Fund team at <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>,
+        and we will share additional information about how to access
+        emergency funds. We are also working to add functionality to
+        provide payments via debit or gift cards in the coming weeks.
     'What do I do if I receive a code from my employer?':
       - |
         The Plate Fund is providing electronic codes to restaurant
@@ -283,3 +287,59 @@ apply:
         applications received.
     'Are funds disbursed on a first come, first served basis?':
       - Yes.
+    'How can a restaurant owner get codes for their employees?':
+      - |
+        The Plate Fund is enabling restaurant owners to apply for
+        codes for their employees by emailing <a
+        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
+    'What information does a restaurant owner need to provide to get codes for their employees?':
+      - |
+        Restaurant owners will be asked to fill out an application
+        that will ask them for their name and contact information,
+        their business’ name and address, and the number of codes they
+        would like to receive.
+    'Can a restaurant give all of their employees codes?':
+      - |
+        Restaurants will receive a maximum of 20 codes at any one time
+        to ensure that every code the fund gives out is used. A
+        business that uses all its codes may apply for more.
+    'How long will it take a restaurant owner to receive the codes?':
+      - |
+        After a restaurant owner submits an application, it may take
+        up to 48 hours to receive the codes requested.
+    'How will employees receive the codes requested by a restaurant owner?':
+      - |
+        After the application has been approved, the restaurant owner
+        will receive an email from <a
+        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>
+        with the requested codes. The employer will be responsible for
+        distributing those codes to their employees in a safe and
+        timely way.
+    'What should the employee do once they receive the codes?':
+      - |
+        Once employees receive a code, they should go to <a
+        href="https://www.theplatefund.com/">www.theplatefund.com</a>
+        and follow the instructions on the website to apply for funds
+        using their code.
+    'Will workers be able to skip any part of the application because they have a code?':
+      - |
+        Workers with codes will not be able to skip any part of the
+        application. Each application will still be reviewed to
+        confirm eligibility and to ensure that the employee has not
+        yet received a distribution from the fund. Applications
+        submitted with codes will be expedited.
+    'How long will it take an employee to receive their disbursement from the fund?':
+      - |
+        After an application is submitted, it may take two to four
+        days for an employee to receive the fund disbursement in their
+        bank account.
+    'What if an employee does not feel comfortable using the platform because of their immigration status?':
+      - |
+        All information inputted into the tech platform will be
+        confidential and will not be shared with anyone. People’s
+        privacy is of the utmost importance to us. Anyone who is not
+        comfortable using the tech platform may contact The Plate Fund
+        team at <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>,
+        and we will share additional information about how to access
+        emergency funds.
