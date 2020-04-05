@@ -1,10 +1,10 @@
 home:
   need_help: Do You Need Help?
-  need_help_blurb: Restaurant workers who live in King County may be eligible for $500 in immediate assistance. Learn more about the program and apply in minutes.
+  need_help_blurb: Restaurant workers who live in King Country and have suffered financial hardship because of the COVID-19 crisis may be eligible for $500 in immediate assistance.
   apply_button: Learn More & Apply
 
-  want_to_help: We Need Your Help.
-  want_to_help_blurb: The Plate Fund is powered by your generosity. Donate directly to help us reach more workers in need.
+  want_to_help: We Need Your Help!
+  want_to_help_blurb: The Plate Fund is powered by the generosity of our community. Your donation will help us reach more workers in need.
   donate_button: Donate
 
   overview_title: What is The Plate Fund?
@@ -22,7 +22,8 @@ home:
       limited to what we raise in the days and weeks ahead. While our
       goal is to help as many people as possible, priority is given to
       applicants most in need, and the order applications are
-      received. Please donate and apply today!
+      received.
+    - Please donate and apply today!
 
   stories_title: Their Stories
   stories:
@@ -93,8 +94,8 @@ home:
         certainly being felt right here in King County. When the
         COVID-19 crisis hit the Seattle area, more than 100,000 people
         were employed at some 5,000 food establishments in King
-        County. Thousands of restaurants have suspended operations,
-        closed and let go a majority of their staff.
+        County. Thousands of restaurants have closed, suspended
+        operations and let go all or some of their staff.
       - |
         The Washington State Employment Security Department reported
         that accommodation and food service unemployment claims rose
@@ -107,7 +108,7 @@ home:
         rely on every paycheck, as well as tips, to support themselves
         and their families. They need to pay for necessities like
         food, transportation, baby products and medicine now.
-    'Why can’t workers rely on the government support via stimulus payments and unemployment benefits?':
+    'Why can’t workers rely on government support via stimulus payments and unemployment benefits?':
       - |
         Government support is on the way for many, but for a lot
         of workers it is not arriving quickly enough. King
@@ -184,30 +185,7 @@ home:
         those most impacted by the current crisis. We are working
         collaboratively with the United Way of King County, local
         philanthropies as well as our city, county and state leaders
-        to ensure these combined help as many of our neighbors as
-        possible.
-    'Who is behind The Plate Fund effort?':
-      - |
-        The Schultz Family Foundation created the fund, which
-        has been seeded with more than $4 million in partnership
-        with All In Seattle, the Seattle Foundation and
-        UpTogether, as well as with restaurant owners and other
-        local organizations, including: Charlie’s Produce;
-        Amperity; Seattle Restaurant Alliance; Seattle
-        Restaurants United; Washington Hospitality Association;
-        Starbucks Foundation; Tom Douglas and Eric Tanaka (Tom
-        Douglas Seattle Kitchen); Renee Erickson (Bateau, The
-        Whale Wins, The Walrus and the Carpenter, among others);
-        Efrem Fesaha (Boon Boona Coffee); Julian Hagood (Harry’s
-        Fine Foods, Harry’s Beach House); Wassef Haroun
-        (Mamnoon); Rodney Hines (Metier Brewing Company); Taylor
-        Hoang (Taylor Hoang Restaurants Inc., Seatac Airport
-        Restaurants, Pho Cyclo Cafe, District One Saigon); Trey
-        Lamont (Jerk Shack); Edouardo Jordan (JuneBaby, Salare,
-        Lucinda); Melissa Miranda (Musang); Donna Moodie
-        (Marjorie’s); Tamara Murphy and Linda Di Lello Morton
-        (Terra Plata); and Ethan Stowell (Ethan Stowell
-        Restaurants).
+        to help as many of our neighbors as possible.
 
 apply:
   title: Apply for Financial Assistance
@@ -230,10 +208,12 @@ apply:
     'Who is eligible to receive funds?':
       - |
         Anyone who lives in King County, worked in a restaurant or
-        food service establishment and has experienced a reduction
-        in hours or been laid off as a result of the COVID-19 crisis
-        can apply, including dishwashers, cooks, servers,
-        bartenders, food truck employees and cafe attendants.
+        food service establishment and has experienced a reduction in
+        hours or been laid off as a result of the COVID-19 crisis can
+        apply, including dishwashers, cooks, servers, bartenders, food
+        truck employees and cafe attendants. People already receiving
+        government support should not apply so people more in need may
+        access these emergency funds.
     'What documentation do I need to apply?':
       - |
         Applicants will be required to provide documentation to
@@ -287,59 +267,3 @@ apply:
         applications received.
     'Are funds disbursed on a first come, first served basis?':
       - Yes.
-    'How can a restaurant owner get codes for their employees?':
-      - |
-        The Plate Fund is enabling restaurant owners to apply for
-        codes for their employees by emailing <a
-        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
-    'What information does a restaurant owner need to provide to get codes for their employees?':
-      - |
-        Restaurant owners will be asked to fill out an application
-        that will ask them for their name and contact information,
-        their business’ name and address, and the number of codes they
-        would like to receive.
-    'Can a restaurant give all of their employees codes?':
-      - |
-        Restaurants will receive a maximum of 20 codes at any one time
-        to ensure that every code the fund gives out is used. A
-        business that uses all its codes may apply for more.
-    'How long will it take a restaurant owner to receive the codes?':
-      - |
-        After a restaurant owner submits an application, it may take
-        up to 48 hours to receive the codes requested.
-    'How will employees receive the codes requested by a restaurant owner?':
-      - |
-        After the application has been approved, the restaurant owner
-        will receive an email from <a
-        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>
-        with the requested codes. The employer will be responsible for
-        distributing those codes to their employees in a safe and
-        timely way.
-    'What should the employee do once they receive the codes?':
-      - |
-        Once employees receive a code, they should go to <a
-        href="https://www.theplatefund.com/">www.theplatefund.com</a>
-        and follow the instructions on the website to apply for funds
-        using their code.
-    'Will workers be able to skip any part of the application because they have a code?':
-      - |
-        Workers with codes will not be able to skip any part of the
-        application. Each application will still be reviewed to
-        confirm eligibility and to ensure that the employee has not
-        yet received a distribution from the fund. Applications
-        submitted with codes will be expedited.
-    'How long will it take an employee to receive their disbursement from the fund?':
-      - |
-        After an application is submitted, it may take two to four
-        days for an employee to receive the fund disbursement in their
-        bank account.
-    'What if an employee does not feel comfortable using the platform because of their immigration status?':
-      - |
-        All information inputted into the tech platform will be
-        confidential and will not be shared with anyone. People’s
-        privacy is of the utmost importance to us. Anyone who is not
-        comfortable using the tech platform may contact The Plate Fund
-        team at <a
-        href="mailto:info@theplatefund.com">info@theplatefund.com</a>,
-        and we will share additional information about how to access
-        emergency funds.
