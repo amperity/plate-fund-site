@@ -26,27 +26,17 @@ home:
 
   stories_title: Their Stories
   stories:
-    'Richard, cook':
-      job: cook
+    'Jesse, Head of Front of House / Bar Manager':
+      name: jesse
       story: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-        ultricies mattis mi, ac bibendum tellus egestas
-        egestas. Pellentesque nec purus egestas, consectetur mauris
-        eu, feugiat justo.
-    'Simone, server':
-      job: server
+        “People who work in restaurants have a genuine desire to make people happy. One day everything was okay,
+        and the next day everything’s gone. I don’t have anything to back me up. I need money. If this goes on
+        for another two months, I will have nothing.”
+    'Ryan (she/her), Lead Bartender':
+      name: ryan
       story: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-        ultricies mattis mi, ac bibendum tellus egestas
-        egestas. Pellentesque nec purus egestas, consectetur mauris
-        eu, feugiat justo.
-    'Lionel, bartender':
-      job: bartender
-      story: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-        ultricies mattis mi, ac bibendum tellus egestas
-        egestas. Pellentesque nec purus egestas, consectetur mauris eu,
-        feugiat justo.
+        “I have not received any financial assistance from the government, the claim is still being processed.
+        I’ve had to borrow money from friends and family to pay bills and eat. That’s hard, especially on my mental health.”
 
   donate_title: The Need is Urgent
   donate_overview: |
