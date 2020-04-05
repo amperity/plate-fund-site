@@ -10178,9 +10178,16 @@ header.masthead  {
 }
 
 @media (min-width: 768px) {
-  .call-to-action p.mb-3 {
-    /* aligns buttons at most breakpoints */
-    min-height: 76px;
+  .call-to-action > div > div {
+    display: flex;
+  }
+  .call-to-action .container {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+  .call-to-action .container p {
+    flex-grow: 1;
   }
 }
 
