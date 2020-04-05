@@ -11,13 +11,12 @@
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         {% for story in site.translations[site.lang]["home"]["stories"] %}
         <div class="carousel-item {% if forloop.first %}active{% endif %}">
-          {% assign img = "/img/" | append: story[1]["job"] | append: ".jpg" %}
-          <img class="d-block w-100" src="{{ img | prepend: site.baseurl_root }}" alt="{{ story[0] }}">
+          {% assign img = "/img/" | append: story[1]["name"] | append: ".jpg" %}
+          <img class="d-block carousel-portrait" src="{{ img | prepend: site.baseurl_root }}" alt="{{ story[0] }}">
           <div class="carousel-caption d-none d-md-block">
             <h5 style="color: white">{{ story[0] }}</h5>
             <p>

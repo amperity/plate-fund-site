@@ -5816,6 +5816,7 @@ a.close.disabled {
 
 .carousel {
   position: relative;
+  background-color: var(--pf-dark-gray);
 }
 
 .carousel.pointer-event {
@@ -10242,4 +10243,9 @@ header.masthead  {
   padding: 8px;
   border-radius: 0 0 0 4px;
   opacity: 0.8;
+}
+
+.carousel-portrait {
+  max-height: 600px;
+  margin: 0 auto;
 }
