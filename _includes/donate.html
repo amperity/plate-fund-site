@@ -2,41 +2,24 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-10 col-md-9 col-lg-8">
-        <h2 class="mt-0 text-center mb-4">Donate Now!</h2>
+        <h2 class="mt-0 text-center mb-4">Donate</h2>
+        <h5>{% translate home.donate_title %}</h5>
         <p>
-          The Plate Fund provides emergency financial assistance to hard-hit
-          restaurant and food-service workers who have lost jobs and income because
-          of the COVID-19 pandemic.
+          {% translate home.donate_overview %}
         </p>
 
+        <h5>{% translate home.donate_help_title %}</h5>
+        {% for p in site.translations[site.lang]["home"]["donate_help_content"] %}
         <p>
-          <b>The crisis is especially devastating to the restaurant industry.</b>
+          {{ p }}
         </p>
-
-        <p>
-          When COVID-19 hit the Seattle area, more than 100,000 people were employed at some 5,000 food
-          establishments in King County. Most restaurants have been forced to close or reduce operations,
-          and many have laid off the majority of their staffs. A vast majority of line cooks, wait staff,
-          dishwashers and other employees rely on every paycheck, as well as tips, to support themselves
-          and their families.
-        </p>
-
-        <p>
-          For many, these payments will “bridge the gap” between the time they received their last
-          paychecks and when they can finally access federal stimulus payments and/or unemployment
-          insurance benefits. For others, it may be the only assistance they receive.
-        </p>
-
-        <p class="mb-4">
-          <b>PLEASE GIVE!</b> Restaurants, bars, cafes and other food establishments are the connective
-          tissue in our communities, nourishing all of us. It’s time for us to nourish them.
-        </p>
+        {% endfor %}
         <div class="justify-content-center text-center">
           <a href="{{ site.donate_url }}" class="btn btn-dark btn-xl js-scroll-trigger mb-4">
-            Donate
+            {% translate home.donate_button %}
           </a>
           <p>
-            Thank you for your contribution.
+            {% translate home.donate_subtext %}
           </p>
         </div>
       </div>

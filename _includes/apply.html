@@ -1,23 +1,15 @@
 <header class="masthead text-center">
-  <a class="js-scroll-trigger" href="/#page-top"><img class="logo-apply" src="../img/theplatefund_logo.png"></a>
-  <h1>Apply for Financial Assistance</h1>
+  <a class="js-scroll-trigger" href="{{ site.baseurl }}/"><img class="logo-apply" src="{{ "/img/theplatefund_logo.png" | prepend: site.baseurl_root }}"></a>
+  <h1>{% translate apply.title %}</h1>
 </header>
 
 <section class="page-section call-to-action">
   <div class="container">
     <div class="row">
       <div class="col-12 col-lg-12 mb-4">
-        <p>
-          Many of your lives have been upended as your employers have been forced to cut hours,
-          suspend their business, permanently close and lay off employees.
-        </p>
-
-        <p>
-          If you have urgent, necessary expenses like groceries, utilities, rent, medicine or baby food that
-          you are unable to pay for until you receive federal assistance or unemployment insurance, or if
-          you do not qualify for those benefits, The Plate Fund may be able to assist during this difficult
-          time.
-        </p>
+        {% for p in site.translations[site.lang]["apply"]["overview_content"] %}
+        <p>{{ p }}</p>
+        {% endfor %}
       </div>
     </div>
     {% include apply_buttons.html %}
@@ -28,43 +20,15 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-lg-12">
-        <h2 class="mb-5 centered">Frequently Asked Questions</h2>
+        <h2 class="mb-5 centered">{% translate apply.faq_title %}</h2>
+        {% for qa in site.translations[site.lang]["apply"]["faq_content"] %}
         <h5 class="mb-3">
-          Who is eligible to receive funds?
+          {{ qa[0] }}
         </h5>
-        <p class="font-weight-light">
-          Anyone who lives in King County, worked in a restaurant or food service establishment and has experienced a
-          reduction in hours or been laid off as a result of the COVID-19 crisis may apply, including dishwashers, cooks,
-          servers, bartenders, food truck employees and cafe attendants.
-        </p>
-        <h5 class="mb-3">
-          What documentation will applicants need to apply?
-        </h5>
-        <p class="font-weight-light">
-          Applicants will be required to provide documentation to verify that they live in King County, worked
-          in a restaurant and were laid off as a result of the COVID-19 crisis. Applicants will be required to:
-        </p>
-        <ul>
-          <li>Upload a pay stub dated on or after March 1, 2020;</li>
-          <li>Upload one form of government issued identification or two forms of alternate identification
-            that includes an applicant’s residential address;</li>
-          <li>Demonstrate that their gross income is no more than $62,000 per year, inclusive of tips;</li>
-          <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
-        </ul>
-        <h5 class="mb-3">
-          Who is reviewing the applications? How are they analyzed?
-        </h5>
-        <p class="font-weight-light">
-          UpTogether, a digital capital exchange platform that helps low-income people accelerate their economic mobility,
-          will review and process applications. Payments will be disbursed based on the order in which they are received
-          so long as applicants are eligible and submit all of the required documentation.
-        </p>
-        <h5 class="mb-3">
-          How will I know if I am eligible and when and how money will arrive?
-        </h5>
-        <p class="font-weight-light">
-          ...
-        </p>
+        {% for answer in qa[1] %}
+        <p class="font-weight-light">{{ answer }}</p>
+        {% endfor %}
+        {% endfor %}
       </div>
     </div>
     {% include apply_buttons.html %}

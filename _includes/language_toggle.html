@@ -1,0 +1,12 @@
+{% capture link_en %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+{% capture link_es %}{{ site.baseurl_root }}/es{{ page.url }}{% endcapture %}
+
+<div class="language_toggle">
+{% if site.lang == "en" %}
+  <span class="font-weight-light">English</span> |
+  <a href="{{ link_es }}">Spanish</a>
+{% else %}
+  <a href="{{ link_en }}">English</a> |
+  <span class="font-weight-light">Spanish</span>
+{% endif %}
+</div>

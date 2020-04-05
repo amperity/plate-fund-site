@@ -3,67 +3,18 @@
     <div class="row justify-content-center">
       <div class="col-10 col-md-9 col-lg-8">
         <div class="row justify-content-center">
-          <h2 class="mb-4">Frequently Asked Questions</h2>
+          <h2 class="mb-4">{% translate home.donate_faq %}</h2>
         </div>
         <div class="row">
           <div>
+            {% for qa in site.translations[site.lang]["home"]["donate_faq_content"] %}
             <h5 class="mb-3">
-              Why are restaurant workers affected differently than employees in other industries?
+              {{ qa[0] }}
             </h5>
-            <p class="font-weight-light">
-              The COVID-19 pandemic has been especially challenging for the tens of thousands of people employed
-              by more than 5,000 restaurants in King County. Most businesses have been forced to cut hours, lay off
-              workers, and close temporarily or permanently. This is especially true for single-location and small
-              businesses, which do not have the resources to pay severance or otherwise support people they must
-              let go.
-            </p>
-            <p class="font-weight-light">
-              Many restaurant workers also rely on every paycheck, and have urgent needs that must be paid - food,
-              medicine, housing - before the federal stimulus payments and/or unemployment insurance benefits kick in.
-            </p>
-            <p class="font-weight-light mb-5">
-              A higher proportion of restaurant workers also are undocumented and not eligible for federal stimulus
-              payments or unemployment benefits. And, unemployment benefits will likely be lower for restaurant
-              workers than many others who have been laid off because many of them work part-time. What’s more,
-              many restaurant workers also are not familiar with how to access assistance, because they’ve never
-              had to seek out assistance before.
-            </p>
-          </div>
-          <div>
-            <h5 class="mb-3">
-              How is The Plate Fund different from other efforts helping people financially impacted by the pandemic?
-            </h5>
-            <p class="font-weight-light mb-5">
-              The fund is different from most other services currently available in King County because it
-              provides immediate and direct financial assistance to individuals, not to organizations.
-            </p>
-          </div>
-          <div>
-            <h5 class="mb-3">
-              How will the fund be distributed?
-            </h5>
-            <p class="font-weight-light mb-5">
-              Monies from the fund will be transferred directly to individuals via check or electronic means so they
-              may immediately pay for what they need.
-            </p>
-          </div>
-          <div>
-            <h5 class="mb-3">
-              What organizations are behind the effort?
-            </h5>
-            <p class="font-weight-light mb-5">
-              The Schultz Family Foundation created the fund, which has been seeded with $4 million in partnership
-              with All In Seattle, the Seattle Foundation and UpTogether, as well as with restaurant owners and other
-              local organizations, including: Charlie’s Produce; Amperity; Seattle Restaurant Alliance; Seattle
-              Restaurants United; Washington Hospitality Association; Starbucks Foundation; Tom Douglas and Eric
-              Tanaka (Tom Douglas Seattle Kitchen); Renee Erickson (Bateau, The Whale Wins, The Walrus and the
-              Carpenter, among others); Efrem Fesaha (Boon Boona Coffee); Julian Hagood (Harry’s Fine Foods,
-              Harry’s Beach House); Wassef Haroun (Mamnoon); Rodney Hines (Metier Brewing Company); Taylor Hoang
-              (Taylor Hoang Restaurants Inc., Seatac Airport Restaurants, Pho Cyclo Cafe, District One Saigon);
-              Trey Lamont (Jerk Shack); Edouardo Jordan (JuneBaby, Salare, Lucinda); Melissa Miranda (Musang);
-              Donna Moodie (Marjorie’s); Tamara Murphy and Linda Di Lello Morton (Terra Plata); and Ethan Stowell
-              (Ethan Stowell Restaurants).
-            </p>
+            {% for answer in qa[1] %}
+            <p class="font-weight-light">{{ answer }}</p>
+            {% endfor %}
+            {% endfor %}
           </div>
         </div>
       </div>

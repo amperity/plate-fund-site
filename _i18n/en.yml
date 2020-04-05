@@ -1,0 +1,285 @@
+home:
+  need_help: Need Help?
+  need_help_blurb: Restaurant workers who live in King County may be eligible for $500 in immediate assistance. Learn more about the program and apply in minutes.
+  apply_button: Learn More & Apply
+
+  want_to_help: Want to Help?
+  want_to_help_blurb: The Plate Fund is powered by your generosity. Donate directly to help our neighbors in need.
+  donate_button: Donate
+
+  overview_title: What is The Plate Fund?
+  overview_content:
+    - |
+      The COVID-19 crisis is devastating for thousands of
+      restaurant-industry workers who have lost jobs and rely on
+      every paycheck to afford necessities like food, housing
+      and medicine.
+    - |
+      To help, The Plate Fund is providing immediate financial
+      assistance to those who have been hardest-hit in King
+      County.
+
+  stories_title: Their Stories
+  stories:
+    'Richard, cook':
+      job: cook
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris
+        eu, feugiat justo.
+    'Simone, server':
+      job: server
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris
+        eu, feugiat justo.
+    'Lionel, bartender':
+      job: bartender
+      story: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+        ultricies mattis mi, ac bibendum tellus egestas
+        egestas. Pellentesque nec purus egestas, consectetur mauris eu,
+        feugiat justo.
+
+  donate_title: The Need is Urgent
+  donate_overview: |
+    When the COVID-19 crisis hit the Seattle area, more than
+    100,000 people were employed at some 5,000 food
+    establishments in King County. Thousands of restaurants have
+    suspended operations, closed and let go a majority or their
+    staffs. A vast majority of line cooks, wait staff,
+    dishwashers and other employees rely on every paycheck, as
+    well as tips, to support themselves and their families. They
+    need to pay for necessities like food, housing, baby
+    products and medicine now.
+
+  donate_help_title: How to Help Now
+  donate_help_content:
+    - |
+      The Plate Fund provides immediate, one-time payments of $500
+      to the most impacted workers. For many, these payments can
+      help “bridge the gap” between the time they received their
+      last paychecks and when they can access federal stimulus
+      payments and/or unemployment insurance benefits, which can
+      take weeks of months. For others, this may be the only money
+      they receive.
+    - |
+      Restaurants, bars and cafes are the connective tissue in our
+      communities, nourishing all of us and helping to keep our
+      neighborhoods vibrant. Now they need us. Please, donate what
+      you can—the cost of a cup of coffee, a dinner out, a month
+      of meals—to help us reach more workers. It’s our time to
+      serve.
+
+  donate_subtext: |
+    Donations are tax deductible, and one hundred percent of
+    all contributions will go directly to workers.
+
+  donate_faq: Frequently Asked Questions
+  donate_faq_content:
+    'Why focus on workers in the restaurant industry?':
+      - |
+        The restaurant industry is being particularly hard hit
+        by the COVID-19 crisis. The National Restaurant
+        Association recently predicted that restaurants across
+        the country will lose $225 billion in business, and that
+        5 to 7 million service and kitchen jobs could be lost
+        over the next three months. And the effects are
+        certainly being felt right here in King County. When the
+        COVID-19 crisis hit the Seattle area, more than 100,000
+        people were employed at some 5,000 food establishments
+        in King County. Thousands of restaurants have suspended
+        operations, closed and let go a majority or their
+        staffs.
+      - |
+        The Washington State Employment Security Department
+        reported that accommodation and food service
+        unemployment claims rose ten-fold in a single week
+        during the third week of March and reached over 68,000
+        total new claims for the month. Every single one of King
+        County’s more than 5,000 restaurants are being impacted,
+        especially single-establishment and smaller restaurants
+        that may not have the resources to support their staffs
+        through the crisis. A vast majority of these workers
+        rely on every paycheck, as well as tips, to support
+        themselves and their families. They need to pay for
+        necessities like food, housing, baby products and
+        medicine now.
+    'Why can’t workers rely on the government support via stimulus payments and unemployment benefits?':
+      - |
+        Government support is on the way for many, but for a lot
+        of workers it is not arriving quickly enough. King
+        County’s unemployment system has seen a more than 2,000%
+        rise in claims in just three short weeks and is working
+        through a backlog of these claims, delaying payments to
+        many of those in need. Similarly, the individual
+        Economic Impact Payments offered as part of the Federal
+        Government’s CARES Act might take between three and four
+        months to reach some recipients. This means many of our
+        local restaurant workers currently have reduced or no
+        income to cover rent, food, utilities, healthcare and
+        other basic needs. The Plate Fund hopes to help fill
+        this gap with an immediate cash infusion of $500.
+    'Why provide cash?':
+      - |
+        Timing matters most. While there is no direct
+        comparison, we can take lessons from other
+        initiatives. Quick cash transfers at moments of need
+        have proven effective as a disaster response and in
+        helping people avoid housing instability and food
+        insecurity. Cash is the best tool. Cash provides
+        individuals with the flexibility to meet their most
+        urgent needs. There is a strong global evidence base
+        that cash transfers are efficient and effective,
+        particularly when delivered intentionally and at the
+        right moment. It also reduces administrative costs,
+        freeing up resources to reach more people.
+    'How does it work?':
+      - |
+        The Plate Fund provides $500 emergency relief grants to
+        individuals in King County who have lost their jobs in
+        the restaurant industry or are experiencing
+        significantly reduced hours of work due to the COVID-19
+        crisis. The application is a simple process. To apply,
+        applicants must:
+      - |
+        <ul class="font-weight-light">
+          <li>Upload a pay stub dated on or after March 1, 2020;</li>
+          <li>Upload one form of government issued identification or two forms of alternate identification that includes an applicant’s residential address;</li>
+          <li>Demonstrate that their gross income is no more than $62,000 per year, inclusive of tips;</li>
+          <li>Provide bank account information;</li>
+          <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
+        </ul>
+      - |
+        Payments are made electronically. Applicants may receive
+        funding as soon as 48 hours after their application is
+        approved. Applications will be processed as fast as
+        possible, however processing times may vary based on the
+        volume of applications received.
+      - |
+        Applications are reviewed and processed by UpTogether, a
+        digital capital exchange platform that helps low-income
+        people accelerate their economic mobility.
+      - |
+        We recognize a small percentage of restaurant workers do not
+        have bank accounts. We are working to add functionality to
+        provide payments via debit or gift cards in the coming
+        weeks. We will also provide applicants with information about
+        where they may open no-cost bank accounts. In addition, we
+        have created a way for restaurant owners and managers to
+        target these relief payments to their most needy former
+        employees. In some cases, The Plate Fund will provide unique
+        codes to restaurant owners to distribute directly to affected
+        workers. Individuals who receive a code will have to complete
+        the online application, but their applications will receive
+        expedited processing.
+    'How is The Plate Fund different from other efforts helping people financially impacted by the pandemic?':
+      - |
+        The fund is different from most other services currently
+        available in King County because it provides immediate
+        and direct financial assistance to individuals, not to
+        organizations.
+    'Who is behind The Plate Fund effort?':
+      - |
+        The Schultz Family Foundation created the fund, which
+        has been seeded with more than $4 million in partnership
+        with All In Seattle, the Seattle Foundation and
+        UpTogether, as well as with restaurant owners and other
+        local organizations, including: Charlie’s Produce;
+        Amperity; Seattle Restaurant Alliance; Seattle
+        Restaurants United; Washington Hospitality Association;
+        Starbucks Foundation; Tom Douglas and Eric Tanaka (Tom
+        Douglas Seattle Kitchen); Renee Erickson (Bateau, The
+        Whale Wins, The Walrus and the Carpenter, among others);
+        Efrem Fesaha (Boon Boona Coffee); Julian Hagood (Harry’s
+        Fine Foods, Harry’s Beach House); Wassef Haroun
+        (Mamnoon); Rodney Hines (Metier Brewing Company); Taylor
+        Hoang (Taylor Hoang Restaurants Inc., Seatac Airport
+        Restaurants, Pho Cyclo Cafe, District One Saigon); Trey
+        Lamont (Jerk Shack); Edouardo Jordan (JuneBaby, Salare,
+        Lucinda); Melissa Miranda (Musang); Donna Moodie
+        (Marjorie’s); Tamara Murphy and Linda Di Lello Morton
+        (Terra Plata); and Ethan Stowell (Ethan Stowell
+        Restaurants).
+
+apply:
+  title: Apply for Financial Assistance
+  overview_content:
+    - |
+      Many of your lives have been upended as your employers have been
+      forced to cut hours, suspend their business, permanently close
+      and lay off employees.
+    - |
+      If you have urgent, necessary expenses that you are unable to
+      pay for until you receive federal assistance or unemployment
+      insurance, or if you do not qualify for those benefits, The
+      Plate Fund may be able to assist you with a $500 emergency
+      relief grant.
+  button_code: Apply with code
+  button_no_code: Apply without a code
+
+  faq_title: Frequently Asked Questions
+  faq_content:
+    'Who is eligible to receive funds?':
+      - |
+        Anyone who lives in King County, worked in a restaurant or
+        food service establishment and has experienced a reduction
+        in hours or been laid off as a result of the COVID-19 crisis
+        can apply, including dishwashers, cooks, servers,
+        bartenders, food truck employees and cafe attendants.
+    'What documentation do I need to apply?':
+      - |
+        Applicants will be required to provide documentation to
+        verify that they live in King County, worked in a restaurant
+        and were laid off as a result of the COVID-19
+        crisis. Applicants will be required to:
+      - |
+        <ul class="font-weight-light">
+          <li>Upload a pay stub dated on or after March 1, 2020;</li>
+          <li>Upload one form of government issued identification or two forms of alternate identification that includes an applicant’s residential address;</li>
+          <li>Demonstrate that their gross income is no more than $62,000 per year, inclusive of tips;</li>
+          <li>Provide bank account information;</li>
+          <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
+        </ul>
+    'How do I prove a decrease in work hours or loss of job due to COVID-19?':
+    'Do I need a Social Security number to be eligible to receive funds?':
+      - Social Security numbers are not required.
+    'What if I don’t have a bank account?':
+      - |
+        We recognize a small percentage of restaurant workers do not
+        have bank accounts. We are working to add functionality to
+        provide payments via debit or gift cards in the coming
+        weeks. We will also provide applicants with information
+        about where they may open <a
+        href="https://www.seattlecu.com/" target="_blank">no-cost
+        bank accounts</a>.
+    'What do I do if I receive a code from my employer?':
+      - |
+        The Plate Fund is providing electronic codes to restaurant
+        owners to distribute to affected workers who are in the
+        greatest need. If you receive an electronic code, visit the
+        website, enter the code and upload the required
+        documentation.
+    'Who is reviewing the applications? How are they analyzed?':
+      - |
+        UpTogether, a digital capital exchange platform that helps
+        low-income people accelerate their economic mobility, will
+        review and process applications. Payments will be disbursed
+        based on the order in which they are received so long as
+        applicants are eligible and submit all of the required
+        documentation.
+    'Is the application available in languages other than English?':
+      - Yes, the application is also available in Spanish.
+    'How will I be notified if I’m approved?':
+      - Applicants will receive an email confirming their approval from UpTogether.
+    'How and when will the funds be disbursed and available?':
+      - |
+        Applicants, if eligible, may receive funding as soon as 48
+        hours after completing their application. UpTogether aims to
+        process applications as fast as possible, however there may
+        be a delay of up to four days based on the volume of
+        applications received.
+    'Are funds disbursed on a first come, first served basis?':
+      - Yes.

@@ -10217,3 +10217,14 @@ header.masthead  {
 .centered {
   text-align: center
 }
+
+.language_toggle {
+  font-size: 0.8em;
+  position: absolute;
+  top: -0;
+  right: -0;
+  background: white;
+  padding: 8px;
+  border-radius: 0 0 0 4px;
+  opacity: 0.8;
+}

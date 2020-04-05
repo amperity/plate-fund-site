@@ -1,21 +1,18 @@
 <section class="page-section bg-secondary overview">
   <div class="row justify-content-center">
-    <div class="col-md-6 col-lg-5 col-xl-4 align-self-center justify-content-center">
+    <div class="col-10 col-md-9 col-lg-8 col-xl-6 align-self-center justify-content-center">
       <div class="row">
-        <div class="col-lg-10 align-self-end">
-          <h3 class="mb-4">What is the Plate Fund?</h3>
+        <div class="col align-self-end">
+          <h3 class="mb-4 text-center">{% translate home.overview_title %}</h3>
         </div>
-        <div class="col-lg-10 align-self-baseline">
-          <p class="font-weight-light mb-4">
-            To help the most vulnerable, The Plate Fund was created to provide immediate, one-time
-            payments of $500 to help people pay for necessities such as food, medicine, housing and
-            other daily needs.
+        <div class="align-self-baseline">
+          {% for p in site.translations[site.lang]["home"]["overview_content"] %}
+          <p class="col font-weight-light">
+            {{ p }}
           </p>
+          {% endfor %}
         </div>
       </div>
-    </div>
-    <div class="col-md-6 col-lg-5 col-xl-4 justify-content-center">
-      {% include video.html %}
     </div>
   </div>
 </section>

@@ -34,6 +34,12 @@ donate_url: "https://seattlefoundation.org/platefund"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "es"]
+exclude_from_localizations: ["js", "img", "css"]
+
+# Hide files we don't want on the public site
 exclude:
   - README.md
   - docker-compose.yml
