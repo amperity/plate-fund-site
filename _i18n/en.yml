@@ -72,13 +72,6 @@ home:
     Donations are tax deductible, and one hundred percent of
     all contributions will go directly to workers.
 
-  partners_title: Partners and Supporters
-  partners_content:
-    - |
-      In addition to the <a href="http://www.schultzfamilyfoundation.org">
-      Schultz Family Foundation</a>, partners and supporters of
-      #ThePlateFund currently include these organizations and restaurant owners:
-
   donate_faq: Frequently Asked Questions
   donate_faq_content:
     'Why focus on workers in the restaurant industry?':
@@ -183,6 +176,13 @@ home:
         collaboratively with the United Way of King County, local
         philanthropies as well as our city, county and state leaders
         to help as many of our neighbors as possible.
+
+  partners_title: Partners and Supporters
+  partners_content:
+    - |
+      In addition to the <a href="http://www.schultzfamilyfoundation.org">
+      Schultz Family Foundation</a>, partners and supporters of
+      #ThePlateFund currently include these organizations and restaurant owners:
 
 apply:
   title: Apply for Financial Assistance

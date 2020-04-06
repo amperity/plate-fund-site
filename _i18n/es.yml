@@ -187,6 +187,13 @@ home:
         que nuestros esfuerzos combinados ayuden a la mayor cantidad
         posible de nuestros vecinos.
 
+  partners_title: Partners and Supporters
+  partners_content:
+    - |
+      In addition to the <a href="http://www.schultzfamilyfoundation.org">
+      Schultz Family Foundation</a>, partners and supporters of
+      #ThePlateFund currently include these organizations and restaurant owners:
+
 apply:
   title: Aplique para recibir asistencia financiera
   overview_content:
