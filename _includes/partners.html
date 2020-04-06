@@ -1,0 +1,21 @@
+<section class="page-section bg-secondary">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10 col-md-9 col-lg-8">
+        <div class="row justify-content-center">
+          <h3 class="mb-4 text-center">{% translate home.partners_title %}</h3>
+        </div>
+        <div class="row font-weight-light">
+          <p>{% translate home.partners_content %}</p>
+          <ul>
+            {% for partner in site.data.partners %}
+            <li>
+              {{ partner.name }}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

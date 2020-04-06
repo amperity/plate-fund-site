@@ -177,6 +177,13 @@ home:
         philanthropies as well as our city, county and state leaders
         to help as many of our neighbors as possible.
 
+  partners_title: Partners and Supporters
+  partners_content:
+    - |
+      In addition to the <a href="http://www.schultzfamilyfoundation.org">
+      Schultz Family Foundation</a>, partners and supporters of
+      #ThePlateFund currently include these organizations and restaurant owners:
+
 apply:
   title: Apply for Financial Assistance
   overview_content:
