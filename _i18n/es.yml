@@ -1,6 +1,274 @@
 home:
-  need_help: ¿Necesitas Ayuda?
-  want_to_help: ¿Quiero ayudar?
+  need_help: ¿Necesitas ayuda?
+  need_help_blurb: Los trabajadores de restaurantes que viven en King County pueden calificar para recibir hasta $500 en asistencia inmediata. Conozca más sobre el programa y aplique en minutos.
+  apply_button: Más informes y aplicar
+
+  want_to_help: Necesitamos su ayuda
+  want_to_help_blurb: The Plate Fund funciona gracias a su generosidad. Haga donativos directos para que podamos ayudar a más empleados que lo necesitan.
+  donate_button: Donar
+
+  overview_title: ¿Qué es The Plate Fund?
+  overview_content:
+    - |
+      La crisis del COVID-19 está teniendo efectos devastadores para
+      miles de trabajadores de la industria restaurantera que han
+      perdido su trabajo y dependen de su salario para cubrir gastos
+      básicos como alimentos, transportación, productos para bebés y
+      medicinas.
+    - |
+      Para ayudar, The Plate Fund está ofreciendo asistencia
+      financiera inmediata para aquellos que se han visto más
+      afectados en King County.
+    - |
+      La necesidad es mucha y el dinero distribuido por el fondo está
+      limitado a lo que recaudemos en los días y semanas que
+      vienen. Aunque nuestra meta es ayudar a la mayor cantidad de
+      personas posible, se les dará prioridad a los aplicantes que
+      estén pasando por mayor necesidad y en el orden en que se
+      reciban las aplicaciones.
+    - ¡Por favor done y aplique hoy mismo!
+
+  stories_title: Sus historias
+
+  donate_title: La necesidad es urgente
+  donate_overview: |
+    Cuando la crisis del COVID-19 llegó al área de Seattle, había más
+    de 100,000 personas trabajando en alrededor de 5,000
+    establecimientos de alimentos en King County. Miles de
+    restaurantes han suspendido operaciones, cerrado sus puertas y
+    despedido a la mayoría de sus empleados. Una gran mayoría de
+    cocineros, meseros, lava platos y otros empleados dependen de cada
+    pago de su salario, al igual que de las propinas, para poder
+    cubrir sus gastos y los de sus familias. Necesitan cubrir gastos
+    básicos como alimentos, transportación, productos para bebés y
+    medicinas ahora mismo.
+
+  donate_help_title: Cómo ayudar ahora
+  donate_help_content:
+    - |
+      The Plate Fund proporciona un solo pago inmediato de $500 a los
+      trabajadores que más lo necesitan. Para muchos de ellos, estos
+      pagos pueden ayudar a cubrir el lapso entre el último salario
+      que recibieron y el momento en que puedan tener acceso a los
+      pagos de estímulos económicos federales y/o beneficios de
+      desempleo, los cuales pueden tardar semanas o hasta meses. Para
+      otros, es posible que este sea el único dinero que reciban.
+    - |
+      Los restaurantes, bares y cafés son lo que conecta a nuestras
+      comunidades, nutriéndonos y ayudándonos a mantener los lugares
+      donde vivimos vibrantes. Ahora nos necesitan. Por favor, done lo
+      que pueda—el costo de una taza de café, una salida a cenar, un
+      mes de comidas—para ayudarnos a llegar a más trabajadores. Es
+      nuestro tiempo de servir.
+
+  donate_subtext: |
+    Todos los donativos son deducibles de impuestos y el cien por
+    ciento de todos los donativos irá directamente a los trabajadores.
+
+  donate_faq: Preguntas frecuentes
+  donate_faq_content:
+    '¿Por qué se enfocan en los trabajadores de la industria restaurantera?':
+      - |
+        La industria restaurantera está siendo muy afectada por la
+        crisis del COVID-19. La Asociación Nacional de Restaurantes
+        recientemente predijo que los restaurantes de todo el país
+        perderán $225 miles de millones en ventas, y que de 5 a 7
+        millones de empleos de personal de servicio y cocineros
+        podrían perderse en los próximos tres meses. Los efectos
+        ciertamente se están dejando sentir aquí en King
+        County. Cuando la crisis del COVID-19 llegó al área de
+        Seattle, había más de 100,000 personas trabajando en alrededor
+        de 5,000 establecimientos de alimentos en King County. Miles
+        de restaurantes han suspendido operaciones, cerrado sus
+        puertas y despedido a la mayoría de sus empleados.
+      - |
+        El Departamento de Seguridad del Empleo del Estado de
+        Washington reportó que las aplicaciones para recibir
+        beneficios de desempleo de trabajadores de hospitalidad y de
+        servicios alimenticios aumentaron 10 veces en una sola semana
+        durante la tercera semana de marzo, alcanzando un total de más
+        de 68,000 aplicaciones nuevas ese mes. Cada uno de los más de
+        5,000 restaurantes de King County se está viendo afectado,
+        especialmente los negocios individuales y los restaurantes más
+        pequeños que tal vez no tienen los recursos para mantener a su
+        personal mientras dure esta crisis. Una gran mayoría de estos
+        trabajadores depende de su salario, al igual que de las
+        propinas, para poder cubrir sus gastos y los de sus
+        familias. Necesitan cubrir gastos básicos como alimentos,
+        transportación, productos para bebés y medicinas ahora mismo.
+    '¿Por qué los trabajadores no pueden depender del apoyo del gobierno a través de pagos de estímulos económicos y de beneficios de desempleo?':
+      - |
+        El gobierno está por enviar apoyo para muchos trabajadores,
+        pero para muchos de ellos no llegará lo suficientemente
+        rápido. El sistema de servicios de desempleo de King County
+        vio un aumento de más del 2,000 por ciento en la cantidad de
+        aplicaciones recibidas en solo tres semanas y está tratando de
+        procesar las que se han ido acumulando, demorando los pagos
+        destinados a muchos de aquellos que los necesitan. Asimismo,
+        los pagos individuales de los estímulos económicos federales
+        otorgados como parte de la ley CARES del gobierno federal
+        podrían tardar entre tres y cuatro meses en llegarles a
+        algunas personas. Esto significa que muchos de nuestros
+        trabajadores de restaurantes locales en este momento tienen un
+        ingreso reducido o ningún ingreso para cubrir sus pagos de
+        renta, alimentación, servicios públicos, gastos médicos y
+        otras necesidades básicas. The Plate Fund espera ayudar a
+        cubrir esta necesidad proporcionando un pago inmediato en
+        efectivo de $500.
+    '¿Por qué proporcionar dinero en efectivo?':
+      - |
+        El tiempo es esencial. Aunque no podemos hacer una comparación
+        directa, podemos aprender lecciones de otras iniciativas. Las
+        transferencias rápidas de dinero en efectivo en tiempos de
+        necesidad han probado ser efectivas como una forma de
+        responder a desastres y ayudar a las personas a mantener su
+        lugar de vivienda y evitar la inseguridad alimenticia. El
+        dinero en efectivo es la mejor herramienta pues brinda a las
+        personas la flexibilidad de cubrir sus necesidades más
+        urgentes. Existe una gran cantidad de evidencia a nivel
+        mundial que establece que las transferencias de dinero en
+        efectivo son eficientes y efectivas, particularmente cuando se
+        entrega intencionalmente y en el momento correcto. También
+        reduce los costos administrativos, liberando recursos para
+        poder ayudar a más personas.
+    '¿Cómo funciona?':
+      - |
+        The Plate Fund otorga $500 como un donativo de apoyo de
+        emergencia para personas de King County que han perdido su
+        trabajo en la industria restaurantera o que están
+        experimentando una reducción considerable de horas de trabajo
+        debido a la crisis del COVID-19. El proceso de aplicación es
+        muy sencillo. Para aplicar, el trabajador debe de:
+      - |
+        <ul class="font-weight-light">
+          <li>Proporcionar un comprobante de pago (pay stub) fechado a o después del 1º de marzo de 2020;</li>
+          <li>Proporcionar una forma de identificación oficial o dos formas de identificación alterna que muestren la dirección donde vive el aplicante;</li>
+          <li>Demostrar que su salario total no rebasa $62,000 al año, incluyendo propinas;</li>
+          <li>Proporcionar la información de su cuenta bancaria;</li>
+          <li>Verificar que ha perdido su trabajo o que se redujeron sus horas trabajo.</li>
+        </ul>
+      - |
+        Los pagos se realizan de manera electrónica. Los aplicantes
+        podrían recibir los fondos tan pronto como en 48 horas después
+        de que su aplicación sea aprobada. Las aplicaciones se
+        procesarán tan rápido como sea posible. Sin embargo, los
+        tiempos de procesamiento podrían variar dependiendo de la
+        cantidad total de aplicaciones que se reciban.
+      - |
+        Las aplicaciones son revisadas y procesadas por UpTogether,
+        una plataforma digital de intercambio de capital que ayuda a
+        las personas de bajos ingresos a acelerar su movilidad
+        económica.
+      - |
+        Sabemos que un porcentaje pequeño de trabajadores de
+        restaurantes no tienen una cuenta bancaria. Estamos trabajando
+        para agregar una forma de ofrecer pagos por medio de tarjetas
+        de débito o de tarjetas de regalo (gift cards) en las semanas
+        que vienen. También informaremos a los aplicantes cómo pueden
+        abrir cuentas bancarias sin costo alguno. Asimismo, hemos
+        creado una manera para que los propietarios y administradores
+        de restaurantes puedan canalizar estos pagos de ayuda a los
+        sus exempleados que más lo necesitan. En algunos casos, The
+        Plate Fund dará códigos especiales a los propietarios de
+        restaurantes para que los distribuyan directamente a los
+        trabajadores afectados. Las personas que reciban un código
+        tendrán que completar la aplicación en línea, pero sus
+        aplicaciones se procesarán más rápidamente.
+    '¿Cómo difiere The Plate Fund de otros esfuerzos para ayudar a las personas afectadas económicamente por la pandemia?':
+      - |
+        The Plate Fund es un esfuerzo único en su clase que permite
+        donar dinero en efectivo directamente a las personas que
+        trabajaban en uno de los sectores más afectados de nuestra
+        economía local. Es una parte de un conjunto de esfuerzos
+        diseñados para dar apoyo a aquellos más afectados por la
+        crisis actual. Estamos trabajando en colaboración con United
+        Way of King County, organizaciones filantrópicas locales, así
+        como líderes de nuestra ciudad, condado y estado para asegurar
+        que nuestros esfuerzos combinados ayuden a la mayor cantidad
+        posible de nuestros vecinos.
 
 apply:
-  title: Solicitar Asistencia Financiera
+  title: Aplique para recibir asistencia financiera
+  overview_content:
+    - |
+      Muchas de sus vidas han sido afectadas a causa de la crisis del
+      COVID-19. Sus empleadores se han visto obligados a reducir sus
+      horas de trabajo, suspender sus operaciones, cerrar
+      permanentemente y despedir a sus empleados.
+    - |
+      Si usted tiene gastos urgentes y necesarios que no puede cubrir
+      hasta que reciba asistencia federal o beneficios de desempleo, o
+      si no califica para recibir esos beneficios, The Plate Fund
+      puede ayudarlo con un donativo de apoyo de emergencia de $500.
+  button_code: Aplicar con código
+  button_no_code: Aplicar sin código
+
+  faq_title: Preguntas frecuentes
+  faq_content:
+    '¿Quién es elegible para recibir el apoyo económico?':
+      - |
+        Puede aplicar cualquier persona que viva en King County, que
+        haya trabajado en un restaurante o establecimiento de
+        servicios alimenticios y que haya sufrido una reducción de
+        horas de trabajo o haya sido despedido como resultado de la
+        crisis del COVID-19. Esto incluye a lava platos, cocineros,
+        meseros, baristas, empleados de camiones de comida y baristas
+        de café.
+    '¿Qué documentos necesito para aplicar?':
+      - |
+        Los solicitantes deberán proporcionar documentación para
+        verificar que viven en King County, que trabajaron en un
+        restaurante y que fueron despedidos como resultado de la
+        crisis del COVID-19. Para aplicar deberán:
+      - |
+        <ul class="font-weight-light">
+          <li>Proporcionar un comprobante de pago (pay stub) fechado a o después del 1º de marzo de 2020</li>
+          <li>Proporcionar una forma de identificación oficial o dos formas de identificación alterna que muestren la dirección donde vive el aplicante;</li>
+          <li>Demostrar que su salario total no rebasa $62,000 al año, incluyendo propinas;</li>
+          <li>Proveer información de su cuenta bancaria; </li>
+          <li>Verificar que ha perdido su trabajo o que se redujeron sus horas trabajo</li>
+        </ul>
+    '¿Necesito tener un número de seguro social para recibir el apoyo económico?':
+      - No se requiere tener número de seguro social.
+    '¿Qué pasa si no tengo cuenta bancaria?':
+      - |
+        Sabemos que un porcentaje pequeño de trabajadores de
+        restaurantes no tienen una cuenta bancaria. Si usted no tiene
+        una cuenta bancaria, mande un correo electrónico al equipo de
+        The Plate Fund a <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>
+        y le enviaremos información adicional sobre cómo tener acceso
+        al donativo de apoyo de emergencia. También estamos trabajando
+        para poder ofrecer pagos por medio de tarjetas de débito o de
+        tarjetas de regalo (gift cards) en las próximas semanas.
+    '¿Qué hago si mi empleador me dio un código?':
+      - |
+        The Plate Fund está proporcionando códigos electrónicos a los
+        propietarios de restaurantes para que los distribuyan a sus
+        trabajadores que más lo necesiten. Si recibe un código
+        electrónico, visite el sitio web, introduzca el código y siga
+        los pasos para proporcionar la documentación requerida.
+    '¿Quién revisa las aplicaciones? ¿Cómo son analizadas?':
+      - |
+        Las aplicaciones serán revisadas y procesadas por UpTogether,
+        una plataforma de intercambio de capital digital que ayuda a
+        las personas de bajos ingresos para acelerar su movilidad
+        económica. Los pagos se realizarán según el orden en que se
+        reciban, siempre y cuando los solicitantes califiquen y
+        presenten toda la documentación requerida.
+    '¿La aplicación está disponible en otros idiomas que no sea el inglés?':
+      - Sí, la aplicación también está disponible en español.
+    '¿Cómo notifican a las personas que han sido aprobadas?':
+      - |
+        Los solicitantes recibirán un correo electrónico de parte de
+        UpTogether confirmando su aprobación.
+    '¿Cómo y cuándo estarán disponibles los fondos?':
+      - |
+        Los solicitantes que hayan calificado podrían recibir los
+        fondos tan pronto como 48 horas después de completar su
+        solicitud. UpTogether intentará procesar las solicitudes lo
+        más rápido posible, sin embargo, puede haber una demora de
+        hasta cuatro días dependiendo de la cantidad de solicitudes
+        recibidas.
+    '¿Los fondos se asignan por orden de llegada?':
+      - Sí.
