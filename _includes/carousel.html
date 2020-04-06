@@ -13,7 +13,7 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       </ol>
       <div class="carousel-inner">
-        {% for story in site.translations[site.lang]["home"]["stories"] %}
+        {% for story in site.translations["en"]["home"]["stories"] %}
         <div class="carousel-item {% if forloop.first %}active{% endif %}">
           {% assign img = "/img/" | append: story[1]["name"] | append: ".jpg" %}
           <img class="d-block carousel-portrait" src="{{ img | prepend: site.baseurl_root }}" alt="{{ story[0] }}">
