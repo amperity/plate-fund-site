@@ -8,7 +8,7 @@ home:
   donate_button: Donar
 
   overview_title: ¿Qué es The Plate Fund?
-  overview_content: 
+  overview_content:
     - |
       La crisis del COVID-19 está teniendo efectos devastadores para
       miles de trabajadores de la industria restaurantera que han
@@ -66,7 +66,7 @@ home:
     ciento de todos los donativos irá directamente a los trabajadores.
 
   donate_faq: Preguntas frecuentes
-  donate_faq_content: 
+  donate_faq_content:
     '¿Por qué se enfocan en los trabajadores de la industria restaurantera?':
       - |
         La industria restaurantera está siendo muy afectada por la
@@ -188,4 +188,87 @@ home:
         posible de nuestros vecinos.
 
 apply:
-  title: Solicitar Asistencia Financiera
+  title: Aplique para recibir asistencia financiera
+  overview_content:
+    - |
+      Muchas de sus vidas han sido afectadas a causa de la crisis del
+      COVID-19. Sus empleadores se han visto obligados a reducir sus
+      horas de trabajo, suspender sus operaciones, cerrar
+      permanentemente y despedir a sus empleados.
+    - |
+      Si usted tiene gastos urgentes y necesarios que no puede cubrir
+      hasta que reciba asistencia federal o beneficios de desempleo, o
+      si no califica para recibir esos beneficios, The Plate Fund
+      puede ayudarlo con un donativo de apoyo de emergencia de $500.
+  button_code: Aplicar con código
+  button_no_code: Aplicar sin código
+
+  faq_title: Preguntas frecuentes
+  faq_content:
+    '¿Quién es elegible para recibir el apoyo económico?':
+      - |
+        Puede aplicar cualquier persona que viva en King County, que
+        haya trabajado en un restaurante o establecimiento de
+        servicios alimenticios y que haya sufrido una reducción de
+        horas de trabajo o haya sido despedido como resultado de la
+        crisis del COVID-19. Esto incluye a lava platos, cocineros,
+        meseros, baristas, empleados de camiones de comida y baristas
+        de café.
+    '¿Qué documentos necesito para aplicar?':
+      - |
+        Los solicitantes deberán proporcionar documentación para
+        verificar que viven en King County, que trabajaron en un
+        restaurante y que fueron despedidos como resultado de la
+        crisis del COVID-19. Para aplicar deberán:
+      - |
+        <ul class="font-weight-light">
+          <li>Proporcionar un comprobante de pago (pay stub) fechado a o después del 1º de marzo de 2020</li>
+          <li>Proporcionar una forma de identificación oficial o dos formas de identificación alterna que muestren la dirección donde vive el aplicante;</li>
+          <li>Demostrar que su salario total no rebasa $62,000 al año, incluyendo propinas;</li>
+          <li>Proveer información de su cuenta bancaria; </li>
+          <li>Verificar que ha perdido su trabajo o que se redujeron sus horas trabajo</li>
+        </ul>
+    '¿Necesito tener un número de seguro social para recibir el apoyo económico?':
+      - No se requiere tener número de seguro social.
+    '¿Qué pasa si no tengo cuenta bancaria?':
+      - |
+        Sabemos que un porcentaje pequeño de trabajadores de
+        restaurantes no tienen una cuenta bancaria. Si usted no tiene
+        una cuenta bancaria, mande un correo electrónico al equipo de
+        The Plate Fund a <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>
+        y le enviaremos información adicional sobre cómo tener acceso
+        al donativo de apoyo de emergencia. También estamos trabajando
+        para poder ofrecer pagos por medio de tarjetas de débito o de
+        tarjetas de regalo (gift cards) en las próximas semanas.
+    '¿Qué hago si mi empleador me dio un código?':
+      - |
+        The Plate Fund está proporcionando códigos electrónicos a los
+        propietarios de restaurantes para que los distribuyan a sus
+        trabajadores que más lo necesiten. Si recibe un código
+        electrónico, visite el sitio web, introduzca el código y siga
+        los pasos para proporcionar la documentación requerida.
+    '¿Quién revisa las aplicaciones? ¿Cómo son analizadas?':
+      - |
+        Las aplicaciones serán revisadas y procesadas por UpTogether,
+        una plataforma de intercambio de capital digital que ayuda a
+        las personas de bajos ingresos para acelerar su movilidad
+        económica. Los pagos se realizarán según el orden en que se
+        reciban, siempre y cuando los solicitantes califiquen y
+        presenten toda la documentación requerida.
+    '¿La aplicación está disponible en otros idiomas que no sea el inglés?':
+      - Sí, la aplicación también está disponible en español.
+    '¿Cómo notifican a las personas que han sido aprobadas?':
+      - |
+        Los solicitantes recibirán un correo electrónico de parte de
+        UpTogether confirmando su aprobación.
+    '¿Cómo y cuándo estarán disponibles los fondos?':
+      - |
+        Los solicitantes que hayan calificado podrían recibir los
+        fondos tan pronto como 48 horas después de completar su
+        solicitud. UpTogether intentará procesar las solicitudes lo
+        más rápido posible, sin embargo, puede haber una demora de
+        hasta cuatro días dependiendo de la cantidad de solicitudes
+        recibidas.
+    '¿Los fondos se asignan por orden de llegada?':
+      - Sí.
