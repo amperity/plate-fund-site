@@ -1,4 +1,4 @@
-# Covid Response Fund Site
+# The Plate Fund Site
 
 ## Development
 
@@ -10,6 +10,9 @@ docker-compose up
 
 This will run `jekyll serve` in a docker container, which will monitor files for changes
 and serve the site at http://locahost:4000.
+
+
+Note: if you add Gems, you may need to rebuild the docker image using `docker-compose build` or `docker-compose up --build`.
 
 ## Deployment
 
