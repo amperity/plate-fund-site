@@ -1,6 +1,6 @@
 home:
   need_help: Do You Need Help?
-  need_help_blurb: Restaurant workers who live in King County and have suffered financial hardship because of the COVID-19 crisis may be eligible for $500 in immediate assistance.
+  need_help_blurb: Restaurant workers who live and work in King County and have suffered financial hardship because of the COVID-19 crisis may be eligible for $500 in immediate assistance.
   apply_button: Learn More & Apply
 
   want_to_help: We Need Your Help!
@@ -130,8 +130,8 @@ home:
     'How does it work?':
       - |
         The Plate Fund provides $500 emergency relief grants to
-        individuals in King County who have lost their jobs in
-        the restaurant industry or are experiencing
+        individuals who live and work in King County who have
+        lost their jobs in the restaurant industry or are experiencing
         significantly reduced hours of work due to the COVID-19
         crisis. The application is a simple process. To apply,
         applicants must:
@@ -204,19 +204,25 @@ apply:
   faq_content:
     'Who is eligible to receive funds?':
       - |
-        Anyone who lives in King County, worked in a restaurant or
-        food service establishment and has experienced a reduction in
+        Anyone who lives in King County, worked in a restaurant or food
+        service establishment in King County and has experienced a reduction in
         hours or been laid off as a result of the COVID-19 crisis can
         apply, including dishwashers, cooks, servers, bartenders, food
         truck employees and cafe attendants. People already receiving
         government support should not apply so people more in need may
         access these emergency funds.
+    'Who do I contact if I’m running into technical issues with my application?':
+      - |
+        Please email <a href="mailto:fund.support@uptogether.org">
+        fund.support@uptogether.org</a>. We have dedicated support staff
+        for The Plate Fund at UpTogether who can work with you to resolve
+        technical issues.
     'What documentation do I need to apply?':
       - |
-        Applicants will be required to provide documentation to
-        verify that they live in King County, worked in a restaurant
-        and were laid off as a result of the COVID-19
-        crisis. Applicants will be required to:
+        Applicants will be required to provide documentation to verify
+        they live in King County, worked in a restaurant in King County
+        and were laid off as a result of the COVID-19 crisis. Applicants
+        will be required to:
       - |
         <ul class="font-weight-light">
           <li>Upload a pay stub dated on or after March 1, 2020;</li>
