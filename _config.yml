@@ -29,6 +29,7 @@ google_analytics_key: UA-161901878-2
 twitter_username:
 github_username:
 donate_url: "https://seattlefoundation.org/platefund"
+image_base_url: "https://s3-us-west-2.amazonaws.com/assets.theplatefund.com/img/"
 
 # Build settings
 theme: minima
