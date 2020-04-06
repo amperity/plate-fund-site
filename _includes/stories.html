@@ -1,0 +1,24 @@
+<section class="page-section stories">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-8">
+        <div class="text-center">
+          <h2 class="mt-0 mb-4">{% translate home.stories_title %}</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {% for story in site.translations["en"]["home"]["stories"] %}
+      <div class="col-6 col-sm-6 col-md-6 col-lg-3 mb-2">
+        {% assign img = "/img/" | append: story[1]["name"] | append: ".jpg" %}
+        <img style="width: 100%" src="{{ img | prepend: site.baseurl_root }}" alt="{{ story[0] }}" />
+      </div>
+      <div class="col-6 col-sm-6 col-md-6 col-lg-3">
+        <strong>{{ story[0] }}</strong>
+        <blockquote class="font-weight-light">{{ story[1]["story"] }}</blockquote>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

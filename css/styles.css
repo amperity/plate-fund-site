@@ -5814,6 +5814,10 @@ a.close.disabled {
   color: var(--pf-dark-slate);
 }
 
+.stories blockquote {
+  font-style: italic;
+}
+
 .carousel {
   position: relative;
   background-color: var(--pf-dark-gray);
