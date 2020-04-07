@@ -10190,6 +10190,11 @@ header.masthead  {
   color: var(--pf-deep-aqua);
 }
 
+.socials {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
 .centered {
   text-align: center
 }
@@ -10208,4 +10213,16 @@ header.masthead  {
 .carousel-portrait {
   max-height: 600px;
   margin: 0 auto;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.icon-twitter-square, .icon-facebook-square, .icon-instagram-square {
+  width: 0.875em;
 }
