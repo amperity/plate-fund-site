@@ -21,8 +21,7 @@
 title: The Plate Fund
 email: info@theplatefund.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Plate Fund is a donor-funded project to help restaurant industry workers in
-  King County stay above water during the COVID-19 pandemic Stay Home, Stay Safe order.
+  The Plate Fund is a donor-funded effort to get immediate cash to restaurant industry workers in King County who have been hardest hit by the COVID-19 crisis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.theplatefund.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key: UA-161901878-2
