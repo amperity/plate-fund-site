@@ -199,6 +199,7 @@ apply:
       relief grant.
   button_code: Apply with code
   button_no_code: Apply without a code
+  unavailable_for_no_code: Due to high demand, applications without a code are temporarily unavailable.
 
   faq_title: Frequently Asked Questions
   faq_content:

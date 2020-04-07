@@ -209,6 +209,7 @@ apply:
       puede ayudarlo con un donativo de apoyo de emergencia de $500.
   button_code: Aplicar con código
   button_no_code: Aplicar sin código
+  unavailable_for_no_code: Debido a la gran demanda, aplicando sin un código no es disponibles temporalmente.
 
   faq_title: Preguntas frecuentes
   faq_content:

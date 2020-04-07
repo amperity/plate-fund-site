@@ -10209,3 +10209,19 @@ header.masthead  {
   max-height: 600px;
   margin: 0 auto;
 }
+
+.btn.disabled {
+  cursor: default;
+  color: var(--pf-dark-slate);
+}
+
+.btn.disabled:hover {
+  color: var(--pf-dark-slate);
+}
+
+.no-code-unavailable {
+  display: block;
+  max-width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
