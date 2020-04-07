@@ -2,9 +2,32 @@
   {% include analytics.html %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
+  <meta name="description" content="{{ site.description }}">
   <meta name="author" content="">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}" />
   <title>{{ site.title }}</title>
+  <!-- OpenGraph -->
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
+  <meta property="og:image" content="{{ "theplatefund_opengraph.jpg" | prepend: site.image_base_url }}" />
+  <!-- Schema.org -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "The Plate Foundation",
+      "url": "{{ site.url }}",
+      "logo": "{{ "theplatefund_opengraph.jpg" | prepend: site.image_base_url }}",
+      "sameAs": [
+        "https://twitter.com/theplatefund",
+        "https://www.instagram.com/theplatefund/",
+        "https://www.facebook.com/ThePlateFund/"
+      ]
+    }
+</script>
   <!-- Font Awesome icons (free version)-->
   <script src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" crossorigin="anonymous"></script>
   <!-- Google fonts-->
