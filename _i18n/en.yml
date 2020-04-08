@@ -1,4 +1,10 @@
 home:
+  banner:
+    - |
+      <b>Update:</b> 5,100 total applications received and $2.55 million on its way!
+      We're working fast to help as many people as possible. Given high demand,
+      applications may take a few days to be processed. We appreciate your patience.
+      Please check back for updates.
   need_help: Do You Need Help?
   need_help_blurb:
     - |
