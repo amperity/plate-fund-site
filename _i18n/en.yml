@@ -1,10 +1,20 @@
 home:
   need_help: Do You Need Help?
-  need_help_blurb: Restaurant workers who live and work in King County and have suffered financial hardship because of the COVID-19 crisis may be eligible for $500 in immediate assistance.
+  need_help_blurb:
+    - |
+      Restaurant workers who live and work in King County and have suffered financial hardship because
+      of the COVID-19 crisis may be eligible for $500 in immediate assistance.
+    - |
+      <a href="apply#faq">For application and eligibility FAQ, click here</a>.
   apply_button: Learn More & Apply
 
   want_to_help: We Need Your Help!
-  want_to_help_blurb: The Plate Fund is powered by the generosity of our community. Your donation will help us reach more workers in need.
+  want_to_help_blurb:
+    - |
+      The Plate Fund is powered by the generosity of our community. Your donation will help us
+      reach more workers in need.
+    - |
+      <a href="#faq">For donation and other FAQ, click here</a>.
   donate_button: Donate
 
   overview_title: What is The Plate Fund?
@@ -144,11 +154,9 @@ home:
           <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
         </ul>
       - |
-        Payments are made electronically. Applicants may receive
-        funding as soon as 48 hours after their application is
-        approved. Applications will be processed as fast as
-        possible, however processing times may vary based on the
-        volume of applications received.
+        Payments are made electronically. Applications will be processed
+        as fast as possible, however processing times may vary based on
+        the volume of applications received.
       - |
         Applications are reviewed and processed by UpTogether, a
         digital capital exchange platform that helps low-income
@@ -202,21 +210,36 @@ apply:
 
   faq_title: Frequently Asked Questions
   faq_content:
-    'Who is eligible to receive funds?':
-      - |
-        Anyone who lives in King County, worked in a restaurant or food
-        service establishment in King County and has experienced a reduction in
-        hours or been laid off as a result of the COVID-19 crisis can
-        apply, including dishwashers, cooks, servers, bartenders, food
-        truck employees and cafe attendants. People already receiving
-        government support should not apply so people more in need may
-        access these emergency funds.
     'Who do I contact if I’m running into technical issues with my application?':
       - |
         Please email <a href="mailto:fund.support@uptogether.org">
         fund.support@uptogether.org</a>. We have dedicated support staff
         for The Plate Fund at UpTogether who can work with you to resolve
         technical issues.
+      - |
+        Examples of technical issues include problems connecting your bank
+        account, an error message referencing “Stripe,” not being able to
+        access your application status once submitted, etc.
+    'Who is eligible to receive funds?':
+      - |
+        To be eligible for The Plate Fund, you must meet <b><u>all</u></b>
+        of the following criteria:
+      - |
+        <ul class="font-weight-light">
+          <li>Live in King County</li>
+          <li>
+            Have worked in a restaurant or food service establishment in King
+            County up until March 1, 2020 <b><u>or</u></b> are currently working
+            in a food or service establishment in King County and have
+            experienced a reduction in hours
+          </li>
+          <li>Have gross income less than $62,000 a year, inclusive of tips</li>
+        </ul>
+      - |
+        Examples of restaurant or food service establishment workers include
+        dishwashers, cooks, servers, bartenders, food truck employees and
+        cafeattendants. People already receiving government support should
+        not apply so people more in need may access these emergency funds.
     'What documentation do I need to apply?':
       - |
         Applicants will be required to provide documentation to verify
@@ -231,8 +254,36 @@ apply:
           <li>Provide bank account information;</li>
           <li>Verify that they have experienced a decrease in work hours or loss of their job.</li>
         </ul>
+    'If I don’t have a government issued ID, what two forms of alternate identification should I supply?':
+      - |
+        Any two sources that show your current address. Some examples could
+        be: utility bills, cable bills, cell phone bills, a current paystub,
+        insurance statements, etc.
+    'What if I do not have a paystub?':
+      - |
+        You can upload a letter from your employer confirming your wages,
+        employment date, and that your hours or employment have been affected
+        by COVID-19.
     'Do I need a Social Security number to be eligible to receive funds?':
       - Social Security numbers are not required.
+    'I don’t have a bank account. Can I access The Plate Fund?':
+      - |
+        We know that not everyone in our community has a bank account at this time.
+        With you in mind, we created a partnership with the Seattle Credit Union.
+        They offer a no-cost savings account which does not require a Social Security
+        number and can be opened online with $5. To start a savings account today with
+        Seattle Credit Union, please visit their website at
+        <a href="https://www.seattlecu.com/savings-accounts">https://www.seattlecu.com/savings-accounts</a>
+        and follow the steps to setting up an account.
+      - |
+        Please know that while the Seattle Credit Union website asks for a Social
+        Security number, you won't need one. Just continue to the next page where
+        you can use your ITIN (Individual Taxpayer Identification Number).
+      - |
+        If you do not have access to $5 or don’t have the necessary technology to
+        complete this, please email us at
+        <a href="mailto:info@theplatefund.com">info@theplatefund.com</a> and we
+        will work with you on another solution.
     'What if I don’t have a bank account?':
       - |
         We recognize a small percentage of restaurant workers do not
@@ -263,10 +314,12 @@ apply:
       - Applicants will receive an email confirming their approval from UpTogether.
     'How and when will the funds be disbursed and available?':
       - |
-        Applicants, if eligible, may receive funding as soon as 48
-        hours after completing their application. UpTogether aims to
-        process applications as fast as possible, however there may
-        be a delay of up to four days based on the volume of
-        applications received.
+        Applications will be processed as fast as possible, however
+        processing times may vary based on the volume of applications
+        received.
     'Are funds disbursed on a first come, first served basis?':
       - Yes.
+    'How can I help spread the word about The Plate Fund?':
+      - |
+        We would love your support to reach more members of our community!
+        Please share your stories on social media using #theplatefund.
