@@ -10226,3 +10226,16 @@ header.masthead  {
 .icon-twitter-square, .icon-facebook-square, .icon-instagram-square {
   width: 0.875em;
 }
+
+.banner {
+  padding: 1em;
+  margin: 0;
+  background-color: var(--pf-white) !important;
+  border-style: solid;
+  border-radius: 1px;
+  border-color: var(--pf-deep-aqua);
+}
+
+.banner-paragraph {
+  margin: 0;
+}
