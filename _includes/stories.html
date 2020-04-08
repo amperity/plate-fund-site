@@ -11,8 +11,11 @@
     <div class="row">
       {% for story in site.translations["en"]["home"]["stories"] %}
       <div class="col-6 col-sm-6 col-md-6 col-lg-3 mb-2">
-        {% assign img = story[1]["name"] | append: ".jpg" %}
-        <img style="width: 100%" src="{{ img | prepend: site.image_base_url }}" alt="{{ story[0] }}" />
+        {% assign img = story[1]["name"] | prepend: site.image_base_url %}
+        <picture style="width: 100%">
+          <source srcset="{{ img | append: '.webp'}}" type="image/webp">
+          <source srcset="{{ img | append: '.jpg'}}" type="image/jpeg">
+          <img src="{{ img | append: '.jpg' }}" alt="{{ story[0] }}" />
       </div>
       <div class="col-6 col-sm-6 col-md-6 col-lg-3">
         <strong>{{ story[0] }}</strong>
