@@ -168,12 +168,11 @@ sup {
 
 a {
   color: var(--pf-forest-blue);
-  text-decoration: none;
+  text-decoration: underline;
   background-color: transparent;
 }
 a:hover {
   color: var(--pf-deep-aqua);
-  text-decoration: underline;
 }
 
 a:not([href]) {
@@ -2432,6 +2431,7 @@ textarea.form-control {
   display: inline-block;
   font-weight: 400;
   color: var(--pf-dark-slate);
+  text-decoration: none;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
