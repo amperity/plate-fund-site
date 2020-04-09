@@ -17,6 +17,7 @@
   --pf-white: #FCF7FF;
   --pf-dark-slate: #1F202A;
   --pf-forest-blue: #08332C;
+  --pf-dull-lavender: #88A6E1;
 
   /* Bootstrap defaults */
   --blue: #007bff;
@@ -10229,13 +10230,13 @@ header.masthead  {
 
 .banner {
   padding: 1em;
-  margin: 0;
+  margin: 0 0 3em 0;
   background-color: var(--pf-white) !important;
   border-style: solid;
-  border-radius: 1px;
-  border-color: var(--pf-deep-aqua);
+  border-width: 1px;
+  border-color: var(--pf-dull-lavender);
 }
 
-.banner-paragraph {
+.banner p {
   margin: 0;
 }
