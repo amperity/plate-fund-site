@@ -1,10 +1,12 @@
 home:
   banner:
     - |
-      <b>Update:</b> 5,100 total applications received and $2.55 million on its way!
-      We're working fast to help as many people as possible. Given high demand,
-      applications may take a few days to be processed. We appreciate your patience.
-      Please check back for updates.
+      <b>Actualización:</b> ¡Hemos recibido un total de 5,100 aplicaciones y enviado
+      $2.55 millones! Estamos trabajando rápidamente para ayudar a la mayor cantidad
+      posible de personas. Debido al número de aplicaciones recibidas, es posible
+      que nos tome varios días procesarlas. Agradecemos su paciencia. Por favor
+      revise esta página de nuevo para ver las noticias más recientes.
+
   need_help: ¿Necesitas ayuda?
   need_help_blurb: Los trabajadores de restaurantes que viven en King County pueden calificar para recibir hasta $500 en asistencia inmediata. Conozca más sobre el programa y aplique en minutos.
   apply_button: Más informes y aplicar
