@@ -316,6 +316,11 @@ apply:
         documentation.
     'Is the application available in languages other than English?':
       - Yes, the application is also available in Spanish.
+    'How do I check the status of my application?':
+      - |
+        You will receive a link in your email once you submit an
+        application. Please use that link to check the status of your
+        application.
     'How will I be notified if I’m approved?':
       - Applicants will receive an email confirming their approval from UpTogether.
     'How and when will the funds be disbursed and available?':
@@ -325,6 +330,21 @@ apply:
         received.
     'Are funds disbursed on a first come, first served basis?':
       - Yes.
+    'How can I find out why my application was denied?':
+      - |
+        You will receive a link in the decision email you
+        received. Please click on the link where reasons for certain
+        types of denials can be provided. If you need additional
+        information, please email <a
+        href="mailto:fund.support@uptogether.org">fund.support@uptogether.org</a>
+        and be sure to include your confirmation number. Some of the
+        common reasons why applications are denied include:
+      - |
+        <ul class="font-weight-light">
+          <li>The documents or identification you uploaded were too blurry or otherwise unreadable.</li>
+          <li>The documents you submitted were incorrect.</li>
+          <li>You work or live in a place other than King County, which means you are unfortunately ineligible to apply.</li>
+        </ul>
     'How can I help spread the word about The Plate Fund?':
       - |
         We would love your support to reach more members of our community!
