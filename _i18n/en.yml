@@ -99,6 +99,27 @@ home:
 
   donate_faq: Frequently Asked Questions
   donate_faq_content:
+    'Why and when are you transitioning from Open Enrollment to Code Access?':
+      - |
+        We are transitioning to ensure that we continue reaching
+        people who are in the greatest need – including those who may
+        not be eligible for government assistance due to immigration
+        status or other issues. All funds distributed to new
+        applicants after Sunday April 26th will be made available
+        exclusively through our community partners or using codes that
+        applicants receive from their employers or former employers.
+    'How long will #ThePlateFund program continue?':
+      - |
+        #ThePlateFund was created to provide emergency bridge payments
+        to restaurant workers until they received unemployment
+        insurance and/or federal stimulus payments, and to workers who
+        may not be eligible for government assistance due to
+        immigration status or other issues. Though our desire is to
+        assist all workers who have been affected by the COVID-19
+        crisis, the need is enormous. Our plan going forward is to
+        continue working with community-based organizations and
+        restaurant owners, and focus on reaching workers that have the
+        greatest need.
     'Why focus on workers in the restaurant industry?':
       - |
         The restaurant industry is being hard hit by the COVID-19
@@ -225,6 +246,57 @@ apply:
 
   faq_title: Frequently Asked Questions
   faq_content:
+    'Why is open enrollment closed?':
+      - |
+        #ThePlateFund was created to provide emergency bridge payments
+        to restaurant workers until they received unemployment
+        insurance and/or federal stimulus payments, and to workers who
+        may not be eligible for government assistance due to
+        immigration status or other issues. Open enrollment closed in
+        order to ensure that we are reaching people who have the
+        greatest need. All funds distributed to new applicants after
+        Sunday April 26th will be made available exclusively through
+        our community partners or using codes that applicants receive
+        from their employers or former employers.
+    'If I apply before open enrollment ends, will I still receive funds?':
+      - |
+        As long as you meet the eligibility criteria AND apply before
+        Sunday, April 26th at 5 pm PT, you will receive financial
+        assistance.
+    'How do I get a code?':
+      - |
+        If you are an employee or former employee of a restaurant or
+        food service company, please contact your owner or manager in
+        order to find out if they are distributing codes.
+    'What do I do if I receive a code?':
+      - |
+        #ThePlateFund is providing electronic codes to restaurant
+        owners to distribute to affected workers who are in the
+        greatest need. If you receive an electronic code, enter the
+        code above and upload the required documentation.
+    'The restaurant I worked at is closed and I can’t contact management or ownership to receive a code. Can I still apply?':
+      - |
+        If you are in this situation, please email us at <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>
+        so we can work to connect you with additional resources.
+    'Where can I find additional resources besides #ThePlateFund?':
+      - |
+        We’ve put together a list of organizations that may help with
+        food, rent, childcare, mental and emotional health, and other
+        support. The full list is available here. Please continue to
+        check back. As we learn of additional resources, we will
+        update the list.
+    'If I’m a restaurant owner, how do I receive codes for my employees?':
+      - |
+        Restaurant owners may apply for codes by emailing
+        <a href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
+    'How is #ThePlateFund deciding which restaurants receive codes?':
+      - |
+        We are working closely with our community partners and
+        restaurants to reach workers who have the greatest need. If
+        your restaurant needs assistance, you may apply for codes by
+        emailing <a
+        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
     'Who do I contact if I’m running into technical issues with my application?':
       - |
         Please email <a href="mailto:fund.support@uptogether.org">
