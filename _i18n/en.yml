@@ -1,10 +1,19 @@
 home:
   banner:
     - |
-      <b>Update:</b> 7,600 total applications received and $3.8 million on its way!
-      We're working fast to help as many people as possible. Given high demand,
-      applications may take a few days to be processed. We appreciate your patience.
-      Please check back for updates.
+      <strong>Update:</strong> Update: With support from more than 2,300 generous donors we have raised $7 million to serve 14,000 restaurant workers in King County! So far, we have approved 10,500 applications and distributed $5.25 million. Two-thirds of recipients live in zip codes classified as economically distressed by the King County government.
+    - |
+      <strong>Starting at 5 p.m. on Sunday, April 26, all relief
+      assistance will be made available exclusively through our
+      community partners or using codes that applicants receive from
+      their employers or former employers.</strong> This will allow us
+      to continue to focus on reaching people who are in the greatest
+      need, including those who may not be eligible for government
+      assistance due to immigration status or other issues.
+    - |
+      Restaurant owners may request codes to help workers in the
+      greatest need by emailing <a
+      href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
   need_help: Do You Need Help?
   need_help_blurb:
     - |

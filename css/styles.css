@@ -10237,6 +10237,6 @@ header.masthead  {
   border-color: var(--pf-dull-lavender);
 }
 
-.banner p {
-  margin: 0;
+.banner p:last-child {
+  margin-bottom: 0;
 }
