@@ -1,11 +1,27 @@
 home:
   banner:
     - |
-      <b>Actualización:</b> ¡Hemos recibido un total de 7,600 aplicaciones y enviado
-      $3.8 millones! Estamos trabajando rápidamente para ayudar a la mayor cantidad
-      posible de personas. Debido al número de aplicaciones recibidas, es posible
-      que nos tome varios días procesarlas. Agradecemos su paciencia. Por favor
-      revise esta página de nuevo para ver las noticias más recientes.
+      <strong>Actualización:</strong> ¡Con el apoyo de más de 2,300
+      donantes generosos, hemos recaudado $ 7 millones para atender a
+      14,000 trabajadores de restaurantes en el Condado de King! Hasta
+      ahora, hemos aprobado 10,500 solicitudes y distribuido $ 5.25
+      millones de dolares. Dos tercios de los beneficiarios viven en
+      códigos postales clasificados como económicamente angustiados
+      por el gobierno del condado de King.
+    - |
+      <strong>A partir de las 5 p.m. el domingo 26 de abril, toda la
+      asistencia de socorro estará disponible exclusivamente a través
+      de nuestros socios comunitarios o mediante el uso de códigos que
+      los solicitantes reciben de sus empleadores o ex
+      empleadores</strong>. Esto nos permitirá seguir enfocándonos en
+      llegar a las personas que más lo necesitan, incluidas aquellas
+      que no son elegibles para recibir asistencia del gobierno debido
+      a su estado migratorio u otros problemas.
+    - |
+      Los propietarios de restaurantes pueden solicitar códigos para
+      ayudar a los trabajadores que más lo necesitan. Pueden enviar un
+      correo electrónico a <a
+      href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
 
   need_help: ¿Necesitas ayuda?
   need_help_blurb: Los trabajadores de restaurantes que viven en King County pueden calificar para recibir hasta $500 en asistencia inmediata. Conozca más sobre el programa y aplique en minutos.
@@ -75,6 +91,29 @@ home:
 
   donate_faq: Preguntas frecuentes
   donate_faq_content:
+    '¿Por qué y cuándo está pasando de la Inscripción Abierta al Acceso al Código?':
+      - |
+        Estamos haciendo la transición para asegurarnos de continuar
+        llegando a las personas que más lo necesitan, incluidos
+        aquellos que pueden no ser elegibles para recibir asistencia
+        del gobierno debido al estado de inmigración. Todos los fondos
+        distribuidos a los nuevos solicitantes después del domingo 26
+        de abril estarán disponibles exclusivamente a través de
+        nuestros socios comunitarios o mediante el uso de códigos que
+        los solicitantes reciben de sus empleadores o ex empleadores.
+    '¿Cuánto tiempo continuará el programa #ThePlateFund?':
+      - |
+        #ThePlateFund se creó para proporcionar pagos puente de
+        emergencia a los trabajadores de restaurantes hasta que
+        recibieran seguro de desempleo y / o pagos de estímulo
+        federal, y a los trabajadores que pueden no ser elegibles para
+        recibir asistencia del gobierno debido al estado de
+        inmigración. Aunque nuestro deseo es ayudar a todos los
+        trabajadores afectados por la crisis de COVID-19, la necesidad
+        es enorme. Nuestro plan en el futuro es continuar trabajando
+        con organizaciones comunitarias y propietarios de
+        restaurantes, y enfocarnos en llegar a los trabajadores que
+        tienen la mayor necesidad.
     '¿Por qué se enfocan en los trabajadores de la industria restaurantera?':
       - |
         La industria restaurantera está siendo muy afectada por la
@@ -220,6 +259,65 @@ apply:
 
   faq_title: Preguntas frecuentes
   faq_content:
+
+    '¿Por qué se cierra la inscripción abierta?':
+      - |
+        #ThePlateFund se creó para proporcionar ayuda de emergencia a
+        los trabajadores de restaurantes hasta que recibieran seguro
+        de desempleo y / o pagos de estímulo federal, y a los
+        trabajadores que pueden no ser elegibles para recibir
+        asistencia del gobierno debido al estado de inmigración. La
+        inscripción abierta se cerró para garantizar que lleguemos a
+        las personas que más lo necesitan. Todos los fondos
+        distribuidos a los nuevos solicitantes después del domingo 26
+        de abril estarán disponibles exclusivamente a través de
+        nuestros socios comunitarios o mediante el uso de códigos que
+        los solicitantes reciben de sus empleadores o ex empleadores.
+    'Si solicito antes de que finalice la inscripción abierta, ¿seguiré recibiendo fondos?':
+      - |
+        Siempre y cuando cumpla con los criterios de elegibilidad y
+        presente su solicitud antes del domingo 26 de abril a las 5
+        p. M. PT, recibirá asistencia financiera.
+    '¿Cómo obtengo un código?':
+      - |
+        Si usted es un empleado o ex empleado de un restaurante o
+        empresa de servicios de alimentos, comuníquese con su
+        propietario o gerente para averiguar si están distribuyendo
+        códigos.
+    '¿Qué hago si recibo un código?':
+      - |
+        #ThePlateFund proporciona códigos electrónicos a los
+        propietarios de restaurantes para que los distribuyan a los
+        trabajadores afectados que más lo necesitan. Si recibe un
+        código electrónico, visite el sitio web, www.theplatefund.com,
+        ingrese el código y cargue la documentación requerida.
+    'El restaurante en el que trabajé está cerrado y no puedo comunicarme con la administración o la propiedad para recibir un código. ¿Aún puedo postular?':
+      - |
+        Si se encuentra en esta situación, envíenos un correo
+        electrónico a <a
+        href="mailto:info@theplatefund.com">info@theplatefund.com</a>
+        para que podamos trabajar para conectarlo con recursos
+        adicionales.
+    '¿Dónde puedo encontrar recursos adicionales además de #ThePlateFund?':
+      - |
+        Hemos reunido una lista de organizaciones que pueden ayudar
+        con alimentos, alquiler, cuidado de niños, salud mental y
+        emocional y otro tipo de apoyo. La lista completa está
+        disponible aquí.  A medida que aprendamos recursos
+        adicionales, actualizaremos la lista.
+    'Si soy dueño de un restaurante, ¿cómo recibo los códigos para mis empleados?':
+      - |
+        Los propietarios de restaurantes pueden solicitar códigos
+        enviando un correo electrónico a <a
+        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
+    '¿Cómo decide #ThePlateFund qué restaurantes reciben códigos?':
+      - |
+        Estamos trabajando en colaboración con nuestros socios
+        comunitarios y restaurantes para llegar a los trabajadores que
+        tienen la mayor necesidad. Si su restaurante necesita
+        asistencia, puede solicitar los códigos enviando un correo
+        electrónico a <a
+        href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
     '¿Quién es elegible para recibir el apoyo económico?':
       - |
         Puede aplicar cualquier persona que viva en King County, que
