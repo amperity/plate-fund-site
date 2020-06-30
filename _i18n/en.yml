@@ -40,20 +40,20 @@ home:
   overview_title: What is The Plate Fund?
   overview_content:
     - |
-      The COVID-19 crisis is devastating for thousands of
-      restaurant-industry workers who have lost their jobs and rely on
-      every paycheck to afford necessities like food, transportation,
-      baby products and medicine.
+      The COVID-19 crisis continues to be devastating for thousands of restaurant-industry workers
+      who have lost their jobs or have had to reduce their hours. So many of these workers rely on
+      every paycheck to afford necessities like food, transportation, baby products and medicine.
     - |
-      To help, The Plate Fund is providing immediate financial
-      assistance to those who have been hardest-hit in King County.
+      Since April 6, The Plate Fund has been providing immediate one-time payments of $500 to
+      restaurant workers who have been hardest hit in King County. For many, these payments help
+      "bridge the gap" between the time they received their last paychecks and when they have access
+      to federal stimulus payments and/or unemployment insurance benefits. For others, this is the
+      only money they receive.
     - |
-      The need is enormous, and the money the fund distributes is
-      limited to what we raise in the days and weeks ahead. While our
-      goal is to help as many people as possible, priority is given to
-      applicants most in need, and the order applications are
-      received.
-    - Please donate and apply today!
+      Our goal has always been to help as many people as possible, with priority given to applicants
+      most in need, and the order in which applications are received.
+    - |
+      Please apply today!
 
   stories_title: Their Stories
   stories:
@@ -104,6 +104,69 @@ home:
 
   donate_faq: Frequently Asked Questions
   donate_faq_content:
+    'How can I donate to The Plate Fund?':
+      - |
+        Thank you for your interest in supporting The Plate Fund. The Plate Fund is no longer accepting
+        donations, although we are continuing to accept applications and distribute funds to those in
+        need. We encourage donors to reach out to the following organizations that work directly with
+        communities most impacted by the COVID-19 crisis.
+      - |
+        <ul class="font-weight-light">
+          <li>
+            <p><strong><a href="https://acrs.org/give/">
+              Asian Counseling and Referral Service
+            </a></strong></p>
+            <p>
+              Asian Counseling and Referral Service promotes social justice and the well-being and
+              empowerment of Asian Americans and Pacific Islanders and other underserved
+              communities—including immigrants, refugees and American-born—by developing, providing
+              and advocating for innovative, effective and efficient community-based multilingual and
+              multicultural services.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://big-table.com/give/">
+              Big Table
+            </a></strong></p>
+            <p>
+              Managers, owners and employees in the hospitality industry may make a personal referral for
+              an employee in crisis to Big Table, which then connects workers with a variety of needs to a
+              trusted network of resource providers, including doctors, dentists, therapists, auto mechanics
+              and lawyers.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://www.africatowninternational.org/action.html">
+              Centralized Diversion Fund, Africatown International
+            </a></strong></p>
+            <p>
+              Africatown International and Building Changes provide direct cash assistance so community
+              members impacted by COVID-19 can meet basic needs such as food, utilities and rent.
+            </p>
+          </li>
+          </li>
+          <li>
+            <p><strong><a href="http://www.elcentrodelaraza.org/emergency-response-fund/">
+              El Centro de la Raza
+            </a></strong></p>
+            <p>
+              El Centro de La Raza provides more than 40 different services to Latinx community
+              members. Their Emergency Response Fund supports a variety of programs, including a food
+              bank, senior services, financial empowerment classes, childcare and technology support to
+              students.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://philanthropynw.org/wa-food-fund">
+              Washington Food Fund
+            </a></strong></p>
+            <p>
+              As communities in Washington continue to fight the COVID-19 outbreak, there remain
+              thousands of people without enough to eat. Washington Food Fund is raising money to
+              provide food and supplies for those in need during this crisis.
+            </p>
+          </li>
+        </ul>
     'Why and when are you transitioning from Open Enrollment to Code Access?':
       - |
         We are transitioning to ensure that we continue reaching

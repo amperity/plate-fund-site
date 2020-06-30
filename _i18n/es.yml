@@ -34,23 +34,26 @@ home:
   overview_title: ¿Qué es The Plate Fund?
   overview_content:
     - |
-      La crisis del COVID-19 está teniendo efectos devastadores para
-      miles de trabajadores de la industria restaurantera que han
-      perdido su trabajo y dependen de su salario para cubrir gastos
-      básicos como alimentos, transportación, productos para bebés y
+      La crisis de COVID-19 continúa siendo devastadora para miles de
+      trabajadores de la industria de restaurantes que han perdido sus
+      empleos o han tenido que reducir sus horas. Muchos de estos
+      trabajadores dependen de cada cheque de pago para cubrir sus
+      necesidades, como alimentos, transporte, productos para bebés y
       medicinas.
     - |
-      Para ayudar, The Plate Fund está ofreciendo asistencia
-      financiera inmediata para aquellos que se han visto más
-      afectados en King County.
+      Desde el 6 de abril, The Plate Fund ha estado proporcionando pagos
+      únicos inmediatos de $ 500 a los trabajadores de restaurantes que
+      han sido los más afectados en King County. Para muchos, estos pagos
+      ayudan a &quot;cerrar la brecha&quot; entre el momento en que
+      recibieron sus últimos cheques de pago y cuando tuvieron acceso a
+      los pagos de estímulo federal y / o los beneficios del seguro de
+      desempleo. Para otros, este es el único dinero que reciben.
     - |
-      La necesidad es mucha y el dinero distribuido por el fondo está
-      limitado a lo que recaudemos en los días y semanas que
-      vienen. Aunque nuestra meta es ayudar a la mayor cantidad de
-      personas posible, se les dará prioridad a los aplicantes que
-      estén pasando por mayor necesidad y en el orden en que se
-      reciban las aplicaciones.
-    - ¡Por favor done y aplique hoy mismo!
+      Nuestro objetivo siempre ha sido ayudar a la mayor cantidad de
+      personas posible, dando prioridad a los solicitantes más necesitados
+      y el orden en que se reciben las solicitudes.
+    - |
+      Por favor aplique hoy mismo!
 
   stories_title: Sus historias
 
@@ -91,6 +94,71 @@ home:
 
   donate_faq: Preguntas frecuentes
   donate_faq_content:
+    '¿Cómo puedo donar a The Plate Fund?':
+      - |
+        Gracias por su interés en apoyar The Plate Fund. The Plate Fund ya no acepta donaciones,
+        aunque seguimos aceptando solicitudes y distribuyendo fondos a los necesitados. Alentamos a
+        los donantes a comunicarse con las siguientes organizaciones que trabajan directamente con las
+        comunidades más afectadas por la crisis de COVID-19.
+      - |
+        <ul class="font-weight-light">
+          <li>
+            <p><strong><a href="https://acrs.org/give/">
+              Asian Counseling and Referral Service
+            </a></strong></p>
+            <p>
+              Asian Counseling and Referral Services promueve la justicia social y el bienestar y el
+              empoderamiento de los asiáticos estadounidenses e isleños del Pacífico y otras
+              comunidades marginadas, incluidos inmigrantes, refugiados y nacidos en Estados Unidos,
+              mediante el desarrollo, la provisión y la promoción de una comunidad innovadora, efectiva y
+              eficiente basada en la comunidad. Servicios multilingües y multiculturales.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://big-table.com/give/">
+              Big Table
+            </a></strong></p>
+            <p>
+              Los gerentes, propietarios y empleados de la industria hotelera pueden hacer una referencia
+              personal para un empleado en crisis a Big Table, que luego conecta a los trabajadores con
+              una variedad de necesidades a una red confiable de proveedores de recursos, incluidos
+              médicos, dentistas, terapeutas, mecánicos de automóviles y abogados.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://www.africatowninternational.org/action.html">
+              Centralized Diversion Fund, Africatown International
+            </a></strong></p>
+            <p>
+              Africatown International y Building Changes brindan asistencia directa en efectivo para que
+              los miembros de la comunidad afectados por COVID-19 puedan satisfacer necesidades
+              básicas como alimentos, servicios públicos y alquiler.
+            </p>
+          </li>
+          </li>
+          <li>
+            <p><strong><a href="http://www.elcentrodelaraza.org/emergency-response-fund/">
+              El Centro de la Raza
+            </a></strong></p>
+            <p>
+              El Centro de La Raza brinda más de 40 servicios diferentes a los miembros de la comunidad
+              Latinx. Su Fondo de Respuesta a Emergencias respalda una variedad de programas, que
+              incluyen un banco de alimentos, servicios para personas de la tercera edad, clases de
+              capacitación financiera, cuidado de niños y apoyo tecnológico para los estudiantes.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://philanthropynw.org/wa-food-fund">
+              Washington Food Fund
+            </a></strong></p>
+            <p>
+              A medida que las comunidades en Washington continúan luchando contra el brote de
+              COVID-19, quedan miles de personas sin suficiente para comer. Washington Food Fund
+              está recaudando dinero para proporcionar alimentos y suministros a los necesitados durante
+              esta crisis.
+            </p>
+          </li>
+        </ul>
     '¿Por qué y cuándo está pasando de la Inscripción Abierta al Acceso al Código?':
       - |
         Estamos haciendo la transición para asegurarnos de continuar
