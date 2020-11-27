@@ -1,24 +1,22 @@
 home:
   banner:
     - |
-      <strong>Update:</strong> With support from more than 3,100
-      generous donors we have raised $7.8 million to serve 15,600
-      restaurant workers in King County! So far, we have approved
-      13,000 applications and distributed $6.5 million. Two-thirds of
-      recipients live in zip codes classified as economically
-      distressed by the King County government.
+      Thank you to our partners who have made #ThePlateFund possible. With
+      support from more than 3,200 donors, we raised $7.9 million and served
+      more than 15,800 restaurant workers in King County!
     - |
-      <strong>As of Sunday, April 26, all relief assistance is
-      available exclusively through our community partners or using
-      codes that applicants receive from their employers or former
-      employers.</strong> This will allow us to continue to focus on
-      reaching people who are in the greatest need, including those
-      who may not be eligible for government assistance due to
-      immigration status or other issues.
+      Our partnerships with local restaurant owners and the non-profit community
+      enabled us to distribute funds to workers in the greatest need, including
+      those who may not have been eligible for government assistance due to
+      immigration status or other issues. Two-thirds of recipients live in zip
+      codes classified as economically distressed by the King County government.
     - |
-      Restaurant owners may request codes to help workers in the
-      greatest need by emailing <a
-      href="mailto:coderequests@theplatefund.com">coderequests@theplatefund.com</a>.
+      Though we are no longer accepting applications, we recognize the need is
+      great. If you need assistance, we encourage you to reach out to one of the
+      community-based organizations from <a
+      href="https://schultzfamilyfoundation.org/wp-content/uploads/2020/11/Additional-Resources-for-Restaurant-Workers_thePlateFund_11.13.20.pdf">this list</a>
+      that may help with food, rent, childcare, mental and emotional health,
+      and other supports.
   need_help: Do You Need Help?
   need_help_blurb:
     - |
@@ -52,8 +50,6 @@ home:
     - |
       Our goal has always been to help as many people as possible, with priority given to applicants
       most in need, and the order in which applications are received.
-    - |
-      Please apply today!
 
   stories_title: Their Stories
   stories:
@@ -164,6 +160,16 @@ home:
               As communities in Washington continue to fight the COVID-19 outbreak, there remain
               thousands of people without enough to eat. Washington Food Fund is raising money to
               provide food and supplies for those in need during this crisis.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://www.immigrantreliefwa.org/">
+              Washington Immigrant Solidarity Network
+            </a></strong></p>
+            <p>
+              Washington Immigrant Solidarity Network is providing $1,000 one-time direct payments
+              to immigrants experiencing hard times because of COVID-19 and who aren’t eligible for
+              federal financial relief or unemployment insurance.
             </p>
           </li>
         </ul>
@@ -314,6 +320,13 @@ apply:
 
   faq_title: Frequently Asked Questions
   faq_content:
+    'Where can I find additional resources besides #ThePlateFund?':
+      - |
+        We’ve put together a list of organizations that may help with
+        food, rent, childcare, mental and emotional health, and other
+        support. The full list is available <a href="https://schultzfamilyfoundation.org/wp-content/uploads/2020/11/Additional-Resources-for-Restaurant-Workers_thePlateFund_11.13.20.pdf">here</a>.
+        Please continue to check back. As we learn of additional resources, we will
+        update the list.
     'Why is open enrollment closed?':
       - |
         #ThePlateFund was created to provide emergency bridge payments
@@ -347,13 +360,6 @@ apply:
         If you are in this situation, please email us at <a
         href="mailto:info@theplatefund.com">info@theplatefund.com</a>
         so we can work to connect you with additional resources.
-    'Where can I find additional resources besides #ThePlateFund?':
-      - |
-        We’ve put together a list of organizations that may help with
-        food, rent, childcare, mental and emotional health, and other
-        support. The full list is available <a href="https://schultzfamilyfoundation.org/wp-content/uploads/2020/04/TPF-Resources-List.pdf">here</a>. Please continue to
-        check back. As we learn of additional resources, we will
-        update the list.
     'If I’m a restaurant owner, how do I receive codes for my employees?':
       - |
         Restaurant owners may apply for codes by emailing
