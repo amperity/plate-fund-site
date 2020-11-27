@@ -52,8 +52,6 @@ home:
       Nuestro objetivo siempre ha sido ayudar a la mayor cantidad de
       personas posible, dando prioridad a los solicitantes más necesitados
       y el orden en que se reciben las solicitudes.
-    - |
-      Por favor aplique hoy mismo!
 
   stories_title: Sus historias
 
@@ -156,6 +154,16 @@ home:
               COVID-19, quedan miles de personas sin suficiente para comer. Washington Food Fund
               está recaudando dinero para proporcionar alimentos y suministros a los necesitados durante
               esta crisis.
+            </p>
+          </li>
+          <li>
+            <p><strong><a href="https://www.immigrantreliefwa.org/">
+              Washington Immigrant Solidarity Network
+            </a></strong></p>
+            <p>
+              Washington Immigrant Solidarity Network is providing $1,000 one-time direct payments
+              to immigrants experiencing hard times because of COVID-19 and who aren’t eligible for
+              federal financial relief or unemployment insurance.
             </p>
           </li>
         </ul>
@@ -328,6 +336,13 @@ apply:
   faq_title: Preguntas frecuentes
   faq_content:
 
+    '¿Dónde puedo encontrar recursos adicionales además de #ThePlateFund?':
+      - |
+        Hemos reunido una lista de organizaciones que pueden ayudar
+        con alimentos, alquiler, cuidado de niños, salud mental y
+        emocional y otro tipo de apoyo. La lista completa está
+        disponible <a href="https://schultzfamilyfoundation.org/wp-content/uploads/2020/11/Additional-Resources-for-Restaurant-Workers_thePlateFund_11.13.20.pdf">aquí</a>.  A medida que aprendamos recursos
+        adicionales, actualizaremos la lista.
     '¿Por qué se cierra la inscripción abierta?':
       - |
         #ThePlateFund se creó para proporcionar ayuda de emergencia a
@@ -366,13 +381,6 @@ apply:
         href="mailto:info@theplatefund.com">info@theplatefund.com</a>
         para que podamos trabajar para conectarlo con recursos
         adicionales.
-    '¿Dónde puedo encontrar recursos adicionales además de #ThePlateFund?':
-      - |
-        Hemos reunido una lista de organizaciones que pueden ayudar
-        con alimentos, alquiler, cuidado de niños, salud mental y
-        emocional y otro tipo de apoyo. La lista completa está
-        disponible <a href="https://schultzfamilyfoundation.org/wp-content/uploads/2020/04/TPF-Resources-List.pdf">aquí</a>.  A medida que aprendamos recursos
-        adicionales, actualizaremos la lista.
     'Si soy dueño de un restaurante, ¿cómo recibo los códigos para mis empleados?':
       - |
         Los propietarios de restaurantes pueden solicitar códigos
