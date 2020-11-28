@@ -1,9 +1,11 @@
 home:
   banner:
     - |
-      Thank you to our partners who have made #ThePlateFund possible. With
-      support from more than 3,200 donors, we raised $7.9 million and served
-      more than 15,800 restaurant workers in King County!
+      Thank you to our partners who have made #ThePlateFund possible.
+    - |
+      <img src="/img/progress.png" alt="With support from more than 3,200
+      donors, we raised $7.9 million and served more than 15,800 restaurant
+      workers in King County!" width="100%"/>
     - |
       Our partnerships with local restaurant owners and the non-profit community
       enabled us to distribute funds to workers in the greatest need, including
